@@ -432,13 +432,14 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
         % get predicted value
         YmaxVal = (M_max2 - M_max1);
 
-        normModel=1;
+        normModel=2;
         if normModel==1 % normalize by edge degree
-            NodeDegree = ones(size(YmaxVal,2),1);
-            for v = 1:size(YmaxVal,2)
-                NodeDegree(v) = sum(E(:) == v);
+            EL=reshape(E,1,2*size(E,1));
+            NodeDegree=zeros(1,length(unique(EL)));
+            for i=1:max(EL)
+                    NodeDegree(i)=length(find(EL==i));
             end
-            YmaxVal=YmaxVal./repmat(NodeDegree',size(YmaxVal,1),1);
+            YmaxVal=YmaxVal./repmat(NodeDegree,size(YmaxVal,1),1);
         end
         if normModel==2 % normailze into unit vector length
             if size(YmaxVal,1) > 1
@@ -449,7 +450,14 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
                 YmaxVal=YmaxVal./repmat(YmaxValNorm,1,size(YmaxVal,2));
             end
         end
-
+        if normModel==3 % normalize by edge degree
+            NodeDegree = ones(size(Y,2),1);
+            for v = 1:size(Y,2)
+                NodeDegree(v) = sum(E(:) == v);
+            end
+            YmaxVal=YmaxVal./repmat(NodeDegree,1,size(YmaxVal,2));
+        end
+        
         if nargout > 2
             % find out the max gradient for each example: pick out the edge labelings
             % consistent with Ymax

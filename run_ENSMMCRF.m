@@ -140,7 +140,7 @@ end
 % random seed
 rand('twister', 0);
 % generate random graph
-Nrep=2;
+Nrep=5;
 muList=cell(Nrep,1);
 Nnode=size(Y,2);
 Elist=cell(Nrep,1);
