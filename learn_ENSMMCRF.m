@@ -41,6 +41,7 @@ function rtn = learn_ENSMMCRF
     opt_round = 1;
     profile_update;
     rtn = mu;
+end
 
 
     
@@ -72,6 +73,7 @@ function Kmu_x = compute_Kmu_x(x,Kx)
         term34(u,:) = -H_u';
     end
     Kmu_x = reshape(term12(ones(4,1),:) + term34,4*size(E,1),1);
+end
  
     
 function compute_duality_gap
@@ -114,6 +116,7 @@ function compute_duality_gap
     loss= reshape(loss,l_siz);
     Kmu = reshape(Kmu,kmu_siz);
     mu = reshape(mu,mu_siz);
+end
 
 
 % Complete gradient
@@ -153,6 +156,7 @@ function Kmu = compute_Kmu(Kx,mu0)
         end
     end
     %mu = reshape(mu,mu_siz);
+end
 
 
 function profile_update
@@ -199,6 +203,7 @@ function profile_update
         save(sfile,'Ypred_tr','Ypred_ts','params','Ypred_ts_val');
         Ye = reshape(Ye,4*size(E,1),m);
     end
+end
 
 
 function [Ypred,YpredVal] = compute_error(Y,Kx) 
@@ -211,6 +216,7 @@ function [Ypred,YpredVal] = compute_error(Y,Kx)
     end
     w_phi_e = compute_w_phi_e(Kx);
     [Ypred,YpredVal] = max_gradient_labeling(w_phi_e);
+end
 
 
 function w_phi_e = compute_w_phi_e(Kx)
@@ -238,6 +244,7 @@ function w_phi_e = compute_w_phi_e(Kx)
     end
     mu = reshape(mu,mu_siz);
     Ye = reshape(Ye,Ye_siz);
+end
 
 
 function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
@@ -303,14 +310,13 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
         % get predicted value
         YmaxVal = (M_max2 - M_max1);
 
-        normModel=2;
-        if normModel==1 % normalize by degree
-            EL=reshape(E,1,2*size(E,1));
-            NodeDegree=zeros(1,length(unique(EL)));
-            for i=1:max(EL)
-                    NodeDegree(i)=length(find(EL==i));
+        normModel=1;
+        if normModel==1 % normalize by edge degree
+            NodeDegree = ones(size(YmaxVal,2),1);
+            for v = 1:size(YmaxVal,2)
+                NodeDegree(v) = sum(E(:) == v);
             end
-            YmaxVal=YmaxVal./repmat(NodeDegree,size(YmaxVal,1),1);
+            YmaxVal=YmaxVal./repmat(NodeDegree',size(YmaxVal,1),1);
         end
         if normModel==2 % normailze into unit vector length
             if size(YmaxVal,1) > 1
@@ -320,7 +326,6 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
                 end
                 YmaxVal=YmaxVal./repmat(YmaxValNorm,1,size(YmaxVal,2));
             end
-            
         end
         
         if nargout > 2
@@ -336,6 +341,7 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
         end
         gradient = reshape(gradient,g_siz);
     end
+end
 
 
 % Construct a matrix containing the neighborhood information of the edges.
@@ -390,6 +396,7 @@ function [MBProp,MBPropEdgeNode] = buildBeliefPropagationMatrix(E)
       MBProp(iHead,iTail) = Link-diag(diag(Link));
 
     end
+end
 
 
 function loss = compute_loss_vector(Y,scaling)
@@ -414,6 +421,7 @@ function loss = compute_loss_vector(Y,scaling)
         end
     end
     loss = reshape(loss,4*size(E,1),m);
+end
 
 
 function profile_init
@@ -428,6 +436,8 @@ function profile_init
     profile.microlabel_errors = [];
     profile.iter = 0;
     profile.err_ts = 0;
+end
+
 
 function optimizer_init
     clear global MBProp;
@@ -436,6 +446,8 @@ function optimizer_init
     clear global Smu;
     clear global term12;
     clear global term34;
+end
+
 
 function print_message(msg,verbosity_level,filename)
     global params;
@@ -447,7 +459,7 @@ function print_message(msg,verbosity_level,filename)
             fclose(fid);
         end
     end
-
+end
 
 
 

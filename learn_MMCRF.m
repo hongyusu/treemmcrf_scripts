@@ -1,7 +1,7 @@
-%% Structured classification algorithm for output spaces possessing an
-%% associative conditional random field structure
-%% (c) Juho Rousu, 2004-2010
-%% 
+% Structured classification algorithm for output spaces possessing an
+% associative conditional random field structure
+% (c) Juho Rousu, 2004-2010
+% 
 % 
 % * Kernelized input
 % * Explicit (non-kernelized) output with graph structure
@@ -97,6 +97,7 @@ function rtn=learn_MMCRF
         end
     end
     rtn = mu;
+end
 
     
 function Kmu_x = compute_Kmu_x(x,Kx)
@@ -127,6 +128,7 @@ function Kmu_x = compute_Kmu_x(x,Kx)
         term34(u,:) = -H_u';
     end
     Kmu_x = reshape(term12(ones(4,1),:) + term34,4*size(E,1),1);
+end
  
     
 function compute_duality_gap
@@ -169,10 +171,11 @@ function compute_duality_gap
     loss= reshape(loss,l_siz);
     Kmu = reshape(Kmu,kmu_siz);
     mu = reshape(mu,mu_siz);
+end
 
 
-%% Conditional gradient optimizer for a single example
-%% mu_x, kxx_mu_x -> a column in the matrix
+% Conditional gradient optimizer for a single example
+% mu_x, kxx_mu_x -> a column in the matrix
 function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,te_x,C,maxiter)
     global E;
     global Rmu;
@@ -243,6 +246,7 @@ function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,
         Rmu{u}(:,x) = mu_x(u,:)';
     end
     mu_x = reshape(mu_x,4*size(E,1),1);
+end
 
 
 % Complete gradient
@@ -282,6 +286,7 @@ function Kmu = compute_Kmu(Kx,mu0)
         end
     end
     %mu = reshape(mu,mu_siz);
+end
 
 
 function profile_update
@@ -328,6 +333,7 @@ function profile_update
         save(sfile,'Ypred_tr','Ypred_ts','params','Ypred_ts_val');
         Ye = reshape(Ye,4*size(E,1),m);
     end
+end
 
 
 function [Ypred,YpredVal] = compute_error(Y,Kx) 
@@ -340,6 +346,7 @@ function [Ypred,YpredVal] = compute_error(Y,Kx)
     end
     w_phi_e = compute_w_phi_e(Kx);
     [Ypred,YpredVal] = max_gradient_labeling(w_phi_e);
+end
 
 
 function w_phi_e = compute_w_phi_e(Kx)
@@ -367,6 +374,7 @@ function w_phi_e = compute_w_phi_e(Kx)
     end
     mu = reshape(mu,mu_siz);
     Ye = reshape(Ye,Ye_siz);
+end
 
 
 function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
@@ -463,6 +471,7 @@ function [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient,max_iter)
         end
         gradient = reshape(gradient,g_siz);
     end
+end
 
 
 % Construct a matrix containing the neighborhood information of the edges.
@@ -517,6 +526,7 @@ function [MBProp,MBPropEdgeNode] = buildBeliefPropagationMatrix(E)
       MBProp(iHead,iTail) = Link-diag(diag(Link));
 
     end
+end
 
 
 function loss = compute_loss_vector(Y,scaling)
@@ -541,6 +551,7 @@ function loss = compute_loss_vector(Y,scaling)
         end
     end
     loss = reshape(loss,4*size(E,1),m);
+end
 
 
 function profile_init
@@ -555,6 +566,7 @@ function profile_init
     profile.microlabel_errors = [];
     profile.iter = 0;
     profile.err_ts = 0;
+end
 
 function optimizer_init
     clear global MBProp;
@@ -563,6 +575,7 @@ function optimizer_init
     clear global Smu;
     clear global term12;
     clear global term34;
+end
 
 function print_message(msg,verbosity_level,filename)
     global params;
@@ -574,6 +587,7 @@ function print_message(msg,verbosity_level,filename)
             fclose(fid);
         end
     end
+end
 
 
 
