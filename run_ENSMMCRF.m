@@ -53,7 +53,6 @@ end
 % SVM, single label        
 %
 %------------
-if 1==0
 Ypred = [];
 YpredVal = [];
 % iterate on targets (Y1 -> Yx -> Ym)
@@ -89,10 +88,10 @@ for i=1:Ny
 end
 % performance of svm
 [ax,ay,t,auc]=perfcurve(reshape(Y,1,numel(Y)),reshape(YpredVal,1,numel(Y)),1);
+auc=get_auc(Y,YpredVal);
 [acc,vecacc,pre,rec,f1]=get_performance(Y,Ypred);
 perf=[perf;[acc,vecacc,pre,rec,f1,auc]];perf
-end
-svm_c=0.01;
+
 
 
 
@@ -190,11 +189,13 @@ for i=1:size(Elist,1)
     
     % auc & roc random model
     [ax,ay,t,auc]=perfcurve(reshape(Y,1,numel(Y)),reshape(YpredVal,1,numel(Y)),1);
+    auc=get_auc(Y,YpredVal);
     [acc,vecacc,pre,rec,f1]=get_performance(Y,(Ypred==1));
     perfRand=[perfRand;[acc,vecacc,pre,rec,f1,auc]];
     
     % auc & roc ensemble val model
     [ax,ay,t,auc]=perfcurve(reshape(Y,1,numel(Y)),reshape(YenspredVal,1,numel(Y)),1);
+    auc=get_auc(Y,YenspredVal);
     [acc,vecacc,pre,rec,f1]=get_performance(Y,YenspredVal>0);
     perfValEns=[perfValEns;[acc,vecacc,pre,rec,f1,auc]];
     
@@ -212,9 +213,10 @@ perf=[perf;mean(perfRand,1)];
 perf=[perf;[acc,vecacc,pre,rec,f1,0]];perf
 % performance of Val ensemble
 [ax,ay,t,auc]=perfcurve(reshape(Y,1,numel(Y)),reshape(YenspredVal,1,numel(Y)),1);
+auc=get_auc(Y,YenspredVal);
 [acc,vecacc,pre,rec,f1]=get_performance(Y,Yenspred);
 perf=[perf;[acc,vecacc,pre,rec,f1,auc]];perf
-
+asd
 
 %------------
 %
@@ -326,4 +328,15 @@ dlmwrite(sprintf('../results/%s_perfMadEns',name{1}),perfMadEns)
 end
 
 rtn = [];
+end
+
+
+
+
+function [auc] = get_auc(Y,YpredVal)
+    AUC=zeros(1,size(Y,2));
+    for i=1:size(Y,2)
+        [ax,ay,t,AUC(1,i)]=perfcurve(Y(:,i),YpredVal(:,i),1);
+    end
+    auc=mean(AUC);
 end
