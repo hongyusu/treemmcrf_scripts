@@ -10,7 +10,7 @@
 %   (used in gradient computations and prediction)
 % 
 
-function rtn = learn_ensMMCRF
+function rtn = learn_ENSMMCRF
 
 % Input data assumed by the algorithm
 global Kx_tr; % X-kernel, assume to be positive semidefinite and normalized (Kx_tr(i,i) = 1)
