@@ -56,8 +56,8 @@ function rtn=learn_MMCRF
     
     % repeat until working set converged and close to optima
     while or(primal_ub - obj >= params.epsilon*obj,profile.n_err_microlbl <= profile.n_err_microlbl_prev)
-		progress_made = 0;
-		print_message('Conditional gradient optimization...',3)
+        progress_made = 0;
+        print_message('Conditional gradient optimization...',3)
 		for x = 1:m
             % obtain initial gradient for x
             Kmu_x = compute_Kmu_x(x,Kx_tr(:,x));
