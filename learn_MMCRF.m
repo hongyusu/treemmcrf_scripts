@@ -112,7 +112,11 @@ function Kmu_x = compute_Kmu_x(x,Kx)
     global term12;
     global term34;
     global m;
-
+    % For speeding up gradient computations: 
+    % store sums of marginal dual variables, distributed by the
+    % true edge values into Smu
+    % store marginal dual variables, distributed by the
+    % pseudo edge values into Rmu
     if isempty(Rmu)
         Rmu = cell(1,4);
         Smu = cell(1,4);
