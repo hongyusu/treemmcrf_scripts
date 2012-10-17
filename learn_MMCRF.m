@@ -58,7 +58,7 @@ function rtn=learn_MMCRF
     while or(primal_ub - obj >= params.epsilon*obj,profile.n_err_microlbl <= profile.n_err_microlbl_prev)
         progress_made = 0;
         print_message('Conditional gradient optimization...',3)
-		for x = 1:m
+        for x = 1:m
             % obtain initial gradient for x
             Kmu_x = compute_Kmu_x(x,Kx_tr(:,x));
             % conditional gradient optimization on x
@@ -70,7 +70,7 @@ function rtn=learn_MMCRF
                 profile.next_profile_tm = 0;
                 profile_update;
             end
-		end
+        end
 		print_message('Current full gradient...',3);
 
         Kmu = compute_Kmu(Kx_tr);
