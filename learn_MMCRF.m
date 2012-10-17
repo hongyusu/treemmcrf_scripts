@@ -173,6 +173,7 @@ function compute_duality_gap
 
 
 %% Conditional gradient optimizer for a single example
+%% mu_x, kxx_mu_x -> a column in the matrix
 function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,te_x,C,maxiter)
     global E;
     global Rmu;
@@ -318,7 +319,7 @@ function profile_update
 
         print_message(sprintf('td: %d err_tr: %d (%3.2f) ml.loss tr: %d (%3.2f) err_ts: %d (%3.2f) ml.loss ts: %d (%3.2f) obj: %d',...
         round(tm-profile.start_time),profile.n_err,profile.p_err*100,profile.n_err_microlbl,profile.p_err_microlbl*100,round(profile.p_err_ts*size(Y_ts,1)),profile.p_err_ts*100,sum(profile.microlabel_errors_ts),sum(profile.microlabel_errors_ts)/numel(Y_ts)*100, obj),0,sprintf('%s.log',params.filestem));
-        print_message(sprintf('%d haha',profile.microlabel_errors_ts),4);
+        print_message(sprintf('%d here',profile.microlabel_errors_ts),4);
 
         sfile = sprintf('Ypred_%s.mat',params.filestem);
         save(sfile,'Ypred_tr','Ypred_ts','params','Ypred_ts_val');

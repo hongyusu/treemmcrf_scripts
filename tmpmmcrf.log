@@ -61,3 +61,1422 @@
 17-Oct-2012 11:01:03: td: 2 err_tr: 226 (34.14) ml.loss tr: 475 (7.18) err_ts: 117 (34.62) ml.loss ts: 225 (6.66) obj: 1.763591e+01
 17-Oct-2012 11:01:04: alg: M3LBP tm: 2  iter: 1191 obj: 17.898274 mu: max 0.010000 min 0.000000 dgap: 1.241083
 17-Oct-2012 11:01:04: td: 2 err_tr: 228 (34.44) ml.loss tr: 479 (7.24) err_ts: 109 (32.25) ml.loss ts: 216 (6.39) obj: 1.789827e+01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 0 obj: 0.000000 mu: max 0.000000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 392 (59.21) ml.loss tr: 984 (14.86) err_ts: 205 (60.65) ml.loss ts: 480 (14.20) obj: 0
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 1 obj: 0.099100 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 535 (80.82) ml.loss tr: 902 (13.63) err_ts: 273 (80.77) ml.loss ts: 430 (12.72) obj: 9.910000e-02
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 2 obj: 0.197221 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 449 (67.82) ml.loss tr: 906 (13.69) err_ts: 223 (65.98) ml.loss ts: 418 (12.37) obj: 1.972206e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 3 obj: 0.294704 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 525 (79.31) ml.loss tr: 844 (12.75) err_ts: 270 (79.88) ml.loss ts: 406 (12.01) obj: 2.947040e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 4 obj: 0.390546 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 351 (53.02) ml.loss tr: 676 (10.21) err_ts: 181 (53.55) ml.loss ts: 318 (9.41) obj: 3.905462e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 0  iter: 5 obj: 0.486790 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 0 err_tr: 430 (64.95) ml.loss tr: 737 (11.13) err_ts: 204 (60.36) ml.loss ts: 333 (9.85) obj: 4.867902e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 6 obj: 0.580708 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 349 (52.72) ml.loss tr: 645 (9.74) err_ts: 184 (54.44) ml.loss ts: 302 (8.93) obj: 5.807082e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 7 obj: 0.673884 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 372 (56.19) ml.loss tr: 727 (10.98) err_ts: 196 (57.99) ml.loss ts: 349 (10.33) obj: 6.738840e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 8 obj: 0.765539 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 455 (68.73) ml.loss tr: 822 (12.42) err_ts: 224 (66.27) ml.loss ts: 381 (11.27) obj: 7.655390e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 9 obj: 0.855979 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 328 (49.55) ml.loss tr: 695 (10.50) err_ts: 172 (50.89) ml.loss ts: 328 (9.70) obj: 8.559790e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 10 obj: 0.949338 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 389 (58.76) ml.loss tr: 728 (11.00) err_ts: 200 (59.17) ml.loss ts: 348 (10.30) obj: 9.493384e-01
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 11 obj: 1.037793 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 321 (48.49) ml.loss tr: 689 (10.41) err_ts: 171 (50.59) ml.loss ts: 328 (9.70) obj: 1.037793e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 12 obj: 1.128696 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 304 (45.92) ml.loss tr: 678 (10.24) err_ts: 166 (49.11) ml.loss ts: 326 (9.64) obj: 1.128696e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 13 obj: 1.215816 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 292 (44.11) ml.loss tr: 646 (9.76) err_ts: 152 (44.97) ml.loss ts: 305 (9.02) obj: 1.215816e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 14 obj: 1.310195 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 318 (48.04) ml.loss tr: 685 (10.35) err_ts: 170 (50.30) ml.loss ts: 326 (9.64) obj: 1.310195e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 15 obj: 1.398306 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 380 (57.40) ml.loss tr: 714 (10.79) err_ts: 199 (58.88) ml.loss ts: 340 (10.06) obj: 1.398306e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 16 obj: 1.498610 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 418 (63.14) ml.loss tr: 728 (11.00) err_ts: 210 (62.13) ml.loss ts: 337 (9.97) obj: 1.498610e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 17 obj: 1.581374 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 471 (71.15) ml.loss tr: 791 (11.95) err_ts: 232 (68.64) ml.loss ts: 369 (10.92) obj: 1.581374e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 18 obj: 1.664852 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 503 (75.98) ml.loss tr: 814 (12.30) err_ts: 261 (77.22) ml.loss ts: 389 (11.51) obj: 1.664852e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 19 obj: 1.751382 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 467 (70.54) ml.loss tr: 783 (11.83) err_ts: 233 (68.93) ml.loss ts: 371 (10.98) obj: 1.751382e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 1  iter: 20 obj: 1.834013 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 1 err_tr: 503 (75.98) ml.loss tr: 810 (12.24) err_ts: 259 (76.63) ml.loss ts: 383 (11.33) obj: 1.834013e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 21 obj: 1.912181 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 535 (80.82) ml.loss tr: 851 (12.85) err_ts: 272 (80.47) ml.loss ts: 407 (12.04) obj: 1.912181e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 22 obj: 1.999650 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 502 (75.83) ml.loss tr: 835 (12.61) err_ts: 255 (75.44) ml.loss ts: 399 (11.80) obj: 1.999650e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 23 obj: 2.078346 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 524 (79.15) ml.loss tr: 865 (13.07) err_ts: 268 (79.29) ml.loss ts: 417 (12.34) obj: 2.078346e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 24 obj: 2.171187 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 493 (74.47) ml.loss tr: 860 (12.99) err_ts: 254 (75.15) ml.loss ts: 411 (12.16) obj: 2.171187e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 25 obj: 2.263580 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 519 (78.40) ml.loss tr: 857 (12.95) err_ts: 268 (79.29) ml.loss ts: 415 (12.28) obj: 2.263580e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 26 obj: 2.367821 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 534 (80.66) ml.loss tr: 838 (12.66) err_ts: 272 (80.47) ml.loss ts: 399 (11.80) obj: 2.367821e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 27 obj: 2.446596 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 520 (78.55) ml.loss tr: 823 (12.43) err_ts: 268 (79.29) ml.loss ts: 388 (11.48) obj: 2.446596e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 28 obj: 2.522418 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 505 (76.28) ml.loss tr: 808 (12.21) err_ts: 250 (73.96) ml.loss ts: 379 (11.21) obj: 2.522418e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 29 obj: 2.613490 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 519 (78.40) ml.loss tr: 813 (12.28) err_ts: 266 (78.70) ml.loss ts: 385 (11.39) obj: 2.613490e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 30 obj: 2.692759 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 516 (77.95) ml.loss tr: 802 (12.11) err_ts: 267 (78.99) ml.loss ts: 382 (11.30) obj: 2.692759e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 31 obj: 2.763834 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 534 (80.66) ml.loss tr: 837 (12.64) err_ts: 273 (80.77) ml.loss ts: 398 (11.78) obj: 2.763834e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 32 obj: 2.839915 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:50: td: 2 err_tr: 508 (76.74) ml.loss tr: 822 (12.42) err_ts: 257 (76.04) ml.loss ts: 393 (11.63) obj: 2.839915e+00
+17-Oct-2012 14:10:50: alg: M3LBP tm: 2  iter: 33 obj: 2.915291 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 2 err_tr: 469 (70.85) ml.loss tr: 804 (12.15) err_ts: 243 (71.89) ml.loss ts: 390 (11.54) obj: 2.915291e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 2  iter: 34 obj: 2.986417 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 2 err_tr: 434 (65.56) ml.loss tr: 780 (11.78) err_ts: 211 (62.43) ml.loss ts: 364 (10.77) obj: 2.986417e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 35 obj: 3.059581 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 450 (67.98) ml.loss tr: 767 (11.59) err_ts: 221 (65.38) ml.loss ts: 357 (10.56) obj: 3.059581e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 36 obj: 3.132434 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 407 (61.48) ml.loss tr: 736 (11.12) err_ts: 202 (59.76) ml.loss ts: 343 (10.15) obj: 3.132434e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 37 obj: 3.207706 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 368 (55.59) ml.loss tr: 717 (10.83) err_ts: 185 (54.73) ml.loss ts: 335 (9.91) obj: 3.207706e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 38 obj: 3.273892 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 327 (49.40) ml.loss tr: 677 (10.23) err_ts: 167 (49.41) ml.loss ts: 321 (9.50) obj: 3.273892e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 39 obj: 3.341529 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 301 (45.47) ml.loss tr: 650 (9.82) err_ts: 156 (46.15) ml.loss ts: 310 (9.17) obj: 3.341529e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 40 obj: 3.405542 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 282 (42.60) ml.loss tr: 635 (9.59) err_ts: 150 (44.38) ml.loss ts: 300 (8.88) obj: 3.405542e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 41 obj: 3.472821 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 276 (41.69) ml.loss tr: 633 (9.56) err_ts: 150 (44.38) ml.loss ts: 304 (8.99) obj: 3.472821e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 42 obj: 3.536277 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 282 (42.60) ml.loss tr: 651 (9.83) err_ts: 156 (46.15) ml.loss ts: 315 (9.32) obj: 3.536277e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 43 obj: 3.624233 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 281 (42.45) ml.loss tr: 634 (9.58) err_ts: 155 (45.86) ml.loss ts: 310 (9.17) obj: 3.624233e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 44 obj: 3.688897 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 278 (41.99) ml.loss tr: 631 (9.53) err_ts: 149 (44.08) ml.loss ts: 299 (8.85) obj: 3.688897e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 45 obj: 3.792499 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 292 (44.11) ml.loss tr: 635 (9.59) err_ts: 150 (44.38) ml.loss ts: 296 (8.76) obj: 3.792499e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 46 obj: 3.854386 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 279 (42.15) ml.loss tr: 629 (9.50) err_ts: 151 (44.67) ml.loss ts: 304 (8.99) obj: 3.854386e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 47 obj: 3.915116 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 281 (42.45) ml.loss tr: 640 (9.67) err_ts: 156 (46.15) ml.loss ts: 312 (9.23) obj: 3.915116e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 48 obj: 3.974996 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 296 (44.71) ml.loss tr: 673 (10.17) err_ts: 161 (47.63) ml.loss ts: 321 (9.50) obj: 3.974996e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 49 obj: 4.038043 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 304 (45.92) ml.loss tr: 697 (10.53) err_ts: 166 (49.11) ml.loss ts: 344 (10.18) obj: 4.038043e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 50 obj: 4.093980 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 308 (46.53) ml.loss tr: 712 (10.76) err_ts: 167 (49.41) ml.loss ts: 353 (10.44) obj: 4.093980e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 3  iter: 51 obj: 4.177225 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 3 err_tr: 303 (45.77) ml.loss tr: 689 (10.41) err_ts: 165 (48.82) ml.loss ts: 337 (9.97) obj: 4.177225e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 52 obj: 4.233448 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 308 (46.53) ml.loss tr: 709 (10.71) err_ts: 166 (49.11) ml.loss ts: 351 (10.38) obj: 4.233448e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 53 obj: 4.299816 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 300 (45.32) ml.loss tr: 682 (10.30) err_ts: 164 (48.52) ml.loss ts: 331 (9.79) obj: 4.299816e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 54 obj: 4.359904 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 288 (43.50) ml.loss tr: 661 (9.98) err_ts: 158 (46.75) ml.loss ts: 319 (9.44) obj: 4.359904e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 55 obj: 4.441842 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 284 (42.90) ml.loss tr: 636 (9.61) err_ts: 157 (46.45) ml.loss ts: 308 (9.11) obj: 4.441842e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 56 obj: 4.548094 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 286 (43.20) ml.loss tr: 615 (9.29) err_ts: 156 (46.15) ml.loss ts: 300 (8.88) obj: 4.548094e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 57 obj: 4.602586 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 290 (43.81) ml.loss tr: 627 (9.47) err_ts: 160 (47.34) ml.loss ts: 305 (9.02) obj: 4.602586e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 58 obj: 4.653729 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 297 (44.86) ml.loss tr: 660 (9.97) err_ts: 161 (47.63) ml.loss ts: 314 (9.29) obj: 4.653729e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 59 obj: 4.724325 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 292 (44.11) ml.loss tr: 630 (9.52) err_ts: 160 (47.34) ml.loss ts: 306 (9.05) obj: 4.724325e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 60 obj: 4.830251 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 292 (44.11) ml.loss tr: 608 (9.18) err_ts: 159 (47.04) ml.loss ts: 291 (8.61) obj: 4.830251e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 61 obj: 4.892010 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 296 (44.71) ml.loss tr: 583 (8.81) err_ts: 157 (46.45) ml.loss ts: 281 (8.31) obj: 4.892010e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 62 obj: 4.951807 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 304 (45.92) ml.loss tr: 572 (8.64) err_ts: 155 (45.86) ml.loss ts: 275 (8.14) obj: 4.951807e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 63 obj: 5.054302 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 306 (46.22) ml.loss tr: 564 (8.52) err_ts: 157 (46.45) ml.loss ts: 269 (7.96) obj: 5.054302e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 64 obj: 5.117098 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 302 (45.62) ml.loss tr: 567 (8.56) err_ts: 154 (45.56) ml.loss ts: 275 (8.14) obj: 5.117098e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 4  iter: 65 obj: 5.165108 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 4 err_tr: 292 (44.11) ml.loss tr: 569 (8.60) err_ts: 157 (46.45) ml.loss ts: 279 (8.25) obj: 5.165108e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 66 obj: 5.217496 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 5 err_tr: 295 (44.56) ml.loss tr: 583 (8.81) err_ts: 160 (47.34) ml.loss ts: 284 (8.40) obj: 5.217496e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 67 obj: 5.269457 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 5 err_tr: 290 (43.81) ml.loss tr: 578 (8.73) err_ts: 155 (45.86) ml.loss ts: 276 (8.17) obj: 5.269457e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 68 obj: 5.325904 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 5 err_tr: 301 (45.47) ml.loss tr: 577 (8.72) err_ts: 155 (45.86) ml.loss ts: 277 (8.20) obj: 5.325904e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 69 obj: 5.372524 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 5 err_tr: 306 (46.22) ml.loss tr: 597 (9.02) err_ts: 156 (46.15) ml.loss ts: 280 (8.28) obj: 5.372524e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 70 obj: 5.476246 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:51: td: 5 err_tr: 311 (46.98) ml.loss tr: 590 (8.91) err_ts: 159 (47.04) ml.loss ts: 281 (8.31) obj: 5.476246e+00
+17-Oct-2012 14:10:51: alg: M3LBP tm: 5  iter: 71 obj: 5.518876 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 307 (46.37) ml.loss tr: 595 (8.99) err_ts: 154 (45.56) ml.loss ts: 277 (8.20) obj: 5.518876e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 72 obj: 5.560974 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 306 (46.22) ml.loss tr: 594 (8.97) err_ts: 155 (45.86) ml.loss ts: 278 (8.22) obj: 5.560974e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 73 obj: 5.625273 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 306 (46.22) ml.loss tr: 579 (8.75) err_ts: 155 (45.86) ml.loss ts: 277 (8.20) obj: 5.625273e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 74 obj: 5.699505 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 307 (46.37) ml.loss tr: 566 (8.55) err_ts: 157 (46.45) ml.loss ts: 269 (7.96) obj: 5.699505e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 75 obj: 5.743772 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 307 (46.37) ml.loss tr: 570 (8.61) err_ts: 155 (45.86) ml.loss ts: 270 (7.99) obj: 5.743772e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 76 obj: 5.799139 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 308 (46.53) ml.loss tr: 590 (8.91) err_ts: 157 (46.45) ml.loss ts: 279 (8.25) obj: 5.799139e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 77 obj: 5.842548 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 311 (46.98) ml.loss tr: 604 (9.12) err_ts: 159 (47.04) ml.loss ts: 283 (8.37) obj: 5.842548e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 78 obj: 5.928731 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 304 (45.92) ml.loss tr: 604 (9.12) err_ts: 155 (45.86) ml.loss ts: 284 (8.40) obj: 5.928731e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 79 obj: 5.976956 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 298 (45.02) ml.loss tr: 610 (9.21) err_ts: 152 (44.97) ml.loss ts: 283 (8.37) obj: 5.976956e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 5  iter: 80 obj: 6.038655 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 5 err_tr: 298 (45.02) ml.loss tr: 588 (8.88) err_ts: 152 (44.97) ml.loss ts: 280 (8.28) obj: 6.038655e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 81 obj: 6.080655 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 296 (44.71) ml.loss tr: 598 (9.03) err_ts: 151 (44.67) ml.loss ts: 280 (8.28) obj: 6.080655e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 82 obj: 6.122514 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 295 (44.56) ml.loss tr: 605 (9.14) err_ts: 151 (44.67) ml.loss ts: 282 (8.34) obj: 6.122514e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 83 obj: 6.158578 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 292 (44.11) ml.loss tr: 610 (9.21) err_ts: 150 (44.38) ml.loss ts: 283 (8.37) obj: 6.158578e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 84 obj: 6.207398 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 297 (44.86) ml.loss tr: 603 (9.11) err_ts: 150 (44.38) ml.loss ts: 280 (8.28) obj: 6.207398e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 85 obj: 6.258417 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 300 (45.32) ml.loss tr: 589 (8.90) err_ts: 152 (44.97) ml.loss ts: 279 (8.25) obj: 6.258417e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 86 obj: 6.300690 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 304 (45.92) ml.loss tr: 608 (9.18) err_ts: 158 (46.75) ml.loss ts: 289 (8.55) obj: 6.300690e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 87 obj: 6.375197 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 309 (46.68) ml.loss tr: 601 (9.08) err_ts: 160 (47.34) ml.loss ts: 284 (8.40) obj: 6.375197e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 88 obj: 6.421691 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 304 (45.92) ml.loss tr: 604 (9.12) err_ts: 156 (46.15) ml.loss ts: 287 (8.49) obj: 6.421691e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 89 obj: 6.464296 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 297 (44.86) ml.loss tr: 602 (9.09) err_ts: 149 (44.08) ml.loss ts: 279 (8.25) obj: 6.464296e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 90 obj: 6.502006 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 301 (45.47) ml.loss tr: 618 (9.34) err_ts: 154 (45.56) ml.loss ts: 287 (8.49) obj: 6.502006e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 91 obj: 6.532730 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 293 (44.26) ml.loss tr: 613 (9.26) err_ts: 149 (44.08) ml.loss ts: 283 (8.37) obj: 6.532730e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 92 obj: 6.563070 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 289 (43.66) ml.loss tr: 612 (9.24) err_ts: 147 (43.49) ml.loss ts: 283 (8.37) obj: 6.563070e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 93 obj: 6.597284 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 294 (44.41) ml.loss tr: 623 (9.41) err_ts: 149 (44.08) ml.loss ts: 288 (8.52) obj: 6.597284e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 94 obj: 6.641654 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 302 (45.62) ml.loss tr: 619 (9.35) err_ts: 155 (45.86) ml.loss ts: 288 (8.52) obj: 6.641654e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 6  iter: 95 obj: 6.711418 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 6 err_tr: 312 (47.13) ml.loss tr: 617 (9.32) err_ts: 158 (46.75) ml.loss ts: 289 (8.55) obj: 6.711418e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 96 obj: 6.739104 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 298 (45.02) ml.loss tr: 611 (9.23) err_ts: 156 (46.15) ml.loss ts: 289 (8.55) obj: 6.739104e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 97 obj: 6.814221 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 292 (44.11) ml.loss tr: 611 (9.23) err_ts: 149 (44.08) ml.loss ts: 280 (8.28) obj: 6.814221e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 98 obj: 6.856134 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 300 (45.32) ml.loss tr: 607 (9.17) err_ts: 152 (44.97) ml.loss ts: 280 (8.28) obj: 6.856134e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 99 obj: 6.883984 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 292 (44.11) ml.loss tr: 602 (9.09) err_ts: 149 (44.08) ml.loss ts: 278 (8.22) obj: 6.883984e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 100 obj: 6.909496 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 290 (43.81) ml.loss tr: 603 (9.11) err_ts: 147 (43.49) ml.loss ts: 277 (8.20) obj: 6.909496e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 101 obj: 6.959706 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 291 (43.96) ml.loss tr: 593 (8.96) err_ts: 148 (43.79) ml.loss ts: 275 (8.14) obj: 6.959706e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 102 obj: 7.017466 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 297 (44.86) ml.loss tr: 585 (8.84) err_ts: 150 (44.38) ml.loss ts: 274 (8.11) obj: 7.017466e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 103 obj: 7.089981 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 291 (43.96) ml.loss tr: 591 (8.93) err_ts: 148 (43.79) ml.loss ts: 275 (8.14) obj: 7.089981e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 104 obj: 7.118422 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 290 (43.81) ml.loss tr: 593 (8.96) err_ts: 147 (43.49) ml.loss ts: 274 (8.11) obj: 7.118422e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 105 obj: 7.156281 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 291 (43.96) ml.loss tr: 575 (8.69) err_ts: 148 (43.79) ml.loss ts: 269 (7.96) obj: 7.156281e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 106 obj: 7.181446 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 290 (43.81) ml.loss tr: 580 (8.76) err_ts: 147 (43.49) ml.loss ts: 269 (7.96) obj: 7.181446e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 107 obj: 7.216737 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:52: td: 7 err_tr: 290 (43.81) ml.loss tr: 588 (8.88) err_ts: 149 (44.08) ml.loss ts: 276 (8.17) obj: 7.216737e+00
+17-Oct-2012 14:10:52: alg: M3LBP tm: 7  iter: 108 obj: 7.240405 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 7 err_tr: 289 (43.66) ml.loss tr: 595 (8.99) err_ts: 148 (43.79) ml.loss ts: 273 (8.08) obj: 7.240405e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 7  iter: 109 obj: 7.275982 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 7 err_tr: 287 (43.35) ml.loss tr: 579 (8.75) err_ts: 148 (43.79) ml.loss ts: 272 (8.05) obj: 7.275982e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 110 obj: 7.296460 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 289 (43.66) ml.loss tr: 589 (8.90) err_ts: 148 (43.79) ml.loss ts: 273 (8.08) obj: 7.296460e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 111 obj: 7.325196 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 282 (42.60) ml.loss tr: 596 (9.00) err_ts: 150 (44.38) ml.loss ts: 277 (8.20) obj: 7.325196e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 112 obj: 7.345882 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 285 (43.05) ml.loss tr: 601 (9.08) err_ts: 146 (43.20) ml.loss ts: 274 (8.11) obj: 7.345882e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 113 obj: 7.362504 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 282 (42.60) ml.loss tr: 599 (9.05) err_ts: 150 (44.38) ml.loss ts: 280 (8.28) obj: 7.362504e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 114 obj: 7.407673 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 284 (42.90) ml.loss tr: 596 (9.00) err_ts: 150 (44.38) ml.loss ts: 277 (8.20) obj: 7.407673e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 115 obj: 7.434952 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 276 (41.69) ml.loss tr: 591 (8.93) err_ts: 149 (44.08) ml.loss ts: 279 (8.25) obj: 7.434952e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 116 obj: 7.457482 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 279 (42.15) ml.loss tr: 597 (9.02) err_ts: 148 (43.79) ml.loss ts: 277 (8.20) obj: 7.457482e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 117 obj: 7.472612 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 275 (41.54) ml.loss tr: 598 (9.03) err_ts: 148 (43.79) ml.loss ts: 279 (8.25) obj: 7.472612e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 118 obj: 7.492839 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 275 (41.54) ml.loss tr: 604 (9.12) err_ts: 149 (44.08) ml.loss ts: 286 (8.46) obj: 7.492839e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 119 obj: 7.505426 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 276 (41.69) ml.loss tr: 612 (9.24) err_ts: 149 (44.08) ml.loss ts: 291 (8.61) obj: 7.505426e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 120 obj: 7.521007 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 277 (41.84) ml.loss tr: 620 (9.37) err_ts: 151 (44.67) ml.loss ts: 296 (8.76) obj: 7.521007e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 121 obj: 7.545554 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 277 (41.84) ml.loss tr: 633 (9.56) err_ts: 153 (45.27) ml.loss ts: 305 (9.02) obj: 7.545554e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 122 obj: 7.555571 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 280 (42.30) ml.loss tr: 643 (9.71) err_ts: 155 (45.86) ml.loss ts: 310 (9.17) obj: 7.555571e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 123 obj: 7.573137 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 277 (41.84) ml.loss tr: 637 (9.62) err_ts: 151 (44.67) ml.loss ts: 307 (9.08) obj: 7.573137e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 8  iter: 124 obj: 7.598934 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 8 err_tr: 276 (41.69) ml.loss tr: 635 (9.59) err_ts: 151 (44.67) ml.loss ts: 310 (9.17) obj: 7.598934e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 125 obj: 7.668080 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 276 (41.69) ml.loss tr: 626 (9.46) err_ts: 150 (44.38) ml.loss ts: 298 (8.82) obj: 7.668080e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 126 obj: 7.721043 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 277 (41.84) ml.loss tr: 616 (9.31) err_ts: 150 (44.38) ml.loss ts: 295 (8.73) obj: 7.721043e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 127 obj: 7.729782 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 277 (41.84) ml.loss tr: 620 (9.37) err_ts: 151 (44.67) ml.loss ts: 297 (8.79) obj: 7.729782e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 128 obj: 7.748529 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 276 (41.69) ml.loss tr: 621 (9.38) err_ts: 148 (43.79) ml.loss ts: 295 (8.73) obj: 7.748529e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 129 obj: 7.765883 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 275 (41.54) ml.loss tr: 621 (9.38) err_ts: 149 (44.08) ml.loss ts: 295 (8.73) obj: 7.765883e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 130 obj: 7.794103 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 274 (41.39) ml.loss tr: 623 (9.41) err_ts: 148 (43.79) ml.loss ts: 297 (8.79) obj: 7.794103e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 131 obj: 7.824793 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 274 (41.39) ml.loss tr: 614 (9.27) err_ts: 148 (43.79) ml.loss ts: 291 (8.61) obj: 7.824793e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 132 obj: 7.847004 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 273 (41.24) ml.loss tr: 620 (9.37) err_ts: 148 (43.79) ml.loss ts: 297 (8.79) obj: 7.847004e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 133 obj: 7.873034 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 274 (41.39) ml.loss tr: 630 (9.52) err_ts: 148 (43.79) ml.loss ts: 306 (9.05) obj: 7.873034e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 134 obj: 7.887725 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 272 (41.09) ml.loss tr: 624 (9.43) err_ts: 146 (43.20) ml.loss ts: 300 (8.88) obj: 7.887725e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 135 obj: 7.930748 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 270 (40.79) ml.loss tr: 615 (9.29) err_ts: 146 (43.20) ml.loss ts: 294 (8.70) obj: 7.930748e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 136 obj: 7.972304 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 272 (41.09) ml.loss tr: 627 (9.47) err_ts: 147 (43.49) ml.loss ts: 303 (8.96) obj: 7.972304e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 137 obj: 8.001888 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 270 (40.79) ml.loss tr: 615 (9.29) err_ts: 146 (43.20) ml.loss ts: 290 (8.58) obj: 8.001888e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 138 obj: 8.033820 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 272 (41.09) ml.loss tr: 604 (9.12) err_ts: 146 (43.20) ml.loss ts: 282 (8.34) obj: 8.033820e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 9  iter: 139 obj: 8.053413 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 9 err_tr: 270 (40.79) ml.loss tr: 603 (9.11) err_ts: 144 (42.60) ml.loss ts: 281 (8.31) obj: 8.053413e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 140 obj: 8.090253 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 270 (40.79) ml.loss tr: 597 (9.02) err_ts: 144 (42.60) ml.loss ts: 277 (8.20) obj: 8.090253e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 141 obj: 8.159237 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 272 (41.09) ml.loss tr: 588 (8.88) err_ts: 142 (42.01) ml.loss ts: 270 (7.99) obj: 8.159237e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 142 obj: 8.196580 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 274 (41.39) ml.loss tr: 584 (8.82) err_ts: 142 (42.01) ml.loss ts: 268 (7.93) obj: 8.196580e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 143 obj: 8.205093 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 270 (40.79) ml.loss tr: 584 (8.82) err_ts: 146 (43.20) ml.loss ts: 273 (8.08) obj: 8.205093e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 144 obj: 8.227633 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 272 (41.09) ml.loss tr: 577 (8.72) err_ts: 143 (42.31) ml.loss ts: 267 (7.90) obj: 8.227633e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 145 obj: 8.244763 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 271 (40.94) ml.loss tr: 580 (8.76) err_ts: 144 (42.60) ml.loss ts: 270 (7.99) obj: 8.244763e+00
+17-Oct-2012 14:10:53: alg: M3LBP tm: 10  iter: 146 obj: 8.359441 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:53: td: 10 err_tr: 273 (41.24) ml.loss tr: 575 (8.69) err_ts: 144 (42.60) ml.loss ts: 267 (7.90) obj: 8.359441e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 147 obj: 8.389171 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 282 (42.60) ml.loss tr: 569 (8.60) err_ts: 144 (42.60) ml.loss ts: 264 (7.81) obj: 8.389171e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 148 obj: 8.469067 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 289 (43.66) ml.loss tr: 566 (8.55) err_ts: 145 (42.90) ml.loss ts: 260 (7.69) obj: 8.469067e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 149 obj: 8.474779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 279 (42.15) ml.loss tr: 559 (8.44) err_ts: 144 (42.60) ml.loss ts: 261 (7.72) obj: 8.474779e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 150 obj: 8.489213 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 285 (43.05) ml.loss tr: 573 (8.66) err_ts: 145 (42.90) ml.loss ts: 263 (7.78) obj: 8.489213e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 151 obj: 8.526479 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 276 (41.69) ml.loss tr: 571 (8.63) err_ts: 142 (42.01) ml.loss ts: 266 (7.87) obj: 8.526479e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 152 obj: 8.531859 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 273 (41.24) ml.loss tr: 569 (8.60) err_ts: 144 (42.60) ml.loss ts: 267 (7.90) obj: 8.531859e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 153 obj: 8.540868 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 276 (41.69) ml.loss tr: 580 (8.76) err_ts: 142 (42.01) ml.loss ts: 266 (7.87) obj: 8.540868e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 154 obj: 8.553459 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 270 (40.79) ml.loss tr: 580 (8.76) err_ts: 143 (42.31) ml.loss ts: 269 (7.96) obj: 8.553459e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 10  iter: 155 obj: 8.556193 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 10 err_tr: 272 (41.09) ml.loss tr: 582 (8.79) err_ts: 146 (43.20) ml.loss ts: 272 (8.05) obj: 8.556193e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 156 obj: 8.585224 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 272 (41.09) ml.loss tr: 570 (8.61) err_ts: 143 (42.31) ml.loss ts: 266 (7.87) obj: 8.585224e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 157 obj: 8.600968 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 270 (40.79) ml.loss tr: 573 (8.66) err_ts: 144 (42.60) ml.loss ts: 266 (7.87) obj: 8.600968e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 158 obj: 8.610324 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 270 (40.79) ml.loss tr: 577 (8.72) err_ts: 142 (42.01) ml.loss ts: 267 (7.90) obj: 8.610324e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 159 obj: 8.615740 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 282 (42.60) ml.loss tr: 589 (8.90) err_ts: 144 (42.60) ml.loss ts: 269 (7.96) obj: 8.615740e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 160 obj: 8.693721 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 275 (41.54) ml.loss tr: 586 (8.85) err_ts: 142 (42.01) ml.loss ts: 268 (7.93) obj: 8.693721e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 161 obj: 8.701396 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 269 (40.63) ml.loss tr: 581 (8.78) err_ts: 142 (42.01) ml.loss ts: 268 (7.93) obj: 8.701396e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 162 obj: 8.713490 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 274 (41.39) ml.loss tr: 588 (8.88) err_ts: 142 (42.01) ml.loss ts: 268 (7.93) obj: 8.713490e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 163 obj: 8.714959 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 265 (40.03) ml.loss tr: 578 (8.73) err_ts: 140 (41.42) ml.loss ts: 266 (7.87) obj: 8.714959e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 164 obj: 8.717642 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 265 (40.03) ml.loss tr: 582 (8.79) err_ts: 140 (41.42) ml.loss ts: 271 (8.02) obj: 8.717642e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 165 obj: 8.723832 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 268 (40.48) ml.loss tr: 594 (8.97) err_ts: 146 (43.20) ml.loss ts: 284 (8.40) obj: 8.723832e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 166 obj: 8.725499 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 270 (40.79) ml.loss tr: 602 (9.09) err_ts: 146 (43.20) ml.loss ts: 288 (8.52) obj: 8.725499e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 167 obj: 8.766739 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 270 (40.79) ml.loss tr: 585 (8.84) err_ts: 146 (43.20) ml.loss ts: 281 (8.31) obj: 8.766739e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 168 obj: 8.799188 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 270 (40.79) ml.loss tr: 573 (8.66) err_ts: 146 (43.20) ml.loss ts: 273 (8.08) obj: 8.799188e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 11  iter: 169 obj: 8.816834 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 11 err_tr: 269 (40.63) ml.loss tr: 546 (8.25) err_ts: 141 (41.72) ml.loss ts: 257 (7.60) obj: 8.816834e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 170 obj: 8.931376 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 269 (40.63) ml.loss tr: 540 (8.16) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 8.931376e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 170 obj: 8.931376 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 269 (40.63) ml.loss tr: 540 (8.16) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 8.931376e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 171 obj: 8.937922 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 274 (41.39) ml.loss tr: 554 (8.37) err_ts: 142 (42.01) ml.loss ts: 256 (7.57) obj: 8.937922e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 172 obj: 8.954608 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 268 (40.48) ml.loss tr: 556 (8.40) err_ts: 142 (42.01) ml.loss ts: 261 (7.72) obj: 8.954608e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 173 obj: 8.966267 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 267 (40.33) ml.loss tr: 572 (8.64) err_ts: 142 (42.01) ml.loss ts: 271 (8.02) obj: 8.966267e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 174 obj: 8.993090 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 270 (40.79) ml.loss tr: 557 (8.41) err_ts: 142 (42.01) ml.loss ts: 261 (7.72) obj: 8.993090e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 175 obj: 9.009440 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 271 (40.94) ml.loss tr: 542 (8.19) err_ts: 142 (42.01) ml.loss ts: 254 (7.51) obj: 9.009440e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 176 obj: 9.028406 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 278 (41.99) ml.loss tr: 538 (8.13) err_ts: 143 (42.31) ml.loss ts: 249 (7.37) obj: 9.028406e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 177 obj: 9.040031 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 270 (40.79) ml.loss tr: 539 (8.14) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 9.040031e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 178 obj: 9.151667 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 272 (41.09) ml.loss tr: 534 (8.07) err_ts: 142 (42.01) ml.loss ts: 250 (7.40) obj: 9.151667e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 179 obj: 9.167296 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 275 (41.54) ml.loss tr: 545 (8.23) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 9.167296e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 180 obj: 9.167833 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 269 (40.63) ml.loss tr: 539 (8.14) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 9.167833e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 181 obj: 9.197200 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 280 (42.30) ml.loss tr: 539 (8.14) err_ts: 144 (42.60) ml.loss ts: 250 (7.40) obj: 9.197200e+00
+17-Oct-2012 14:10:54: alg: M3LBP tm: 12  iter: 182 obj: 9.203873 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:54: td: 12 err_tr: 274 (41.39) ml.loss tr: 533 (8.05) err_ts: 142 (42.01) ml.loss ts: 248 (7.34) obj: 9.203873e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 12  iter: 183 obj: 9.210840 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 12 err_tr: 269 (40.63) ml.loss tr: 528 (7.98) err_ts: 144 (42.60) ml.loss ts: 249 (7.37) obj: 9.210840e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 184 obj: 9.214272 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 270 (40.79) ml.loss tr: 539 (8.14) err_ts: 142 (42.01) ml.loss ts: 254 (7.51) obj: 9.214272e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 185 obj: 9.216500 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 281 (42.45) ml.loss tr: 564 (8.52) err_ts: 144 (42.60) ml.loss ts: 261 (7.72) obj: 9.216500e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 186 obj: 9.281153 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 281 (42.45) ml.loss tr: 550 (8.31) err_ts: 144 (42.60) ml.loss ts: 257 (7.60) obj: 9.281153e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 187 obj: 9.282021 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 269 (40.63) ml.loss tr: 538 (8.13) err_ts: 142 (42.01) ml.loss ts: 254 (7.51) obj: 9.282021e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 187 obj: 9.282021 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 269 (40.63) ml.loss tr: 538 (8.13) err_ts: 142 (42.01) ml.loss ts: 254 (7.51) obj: 9.282021e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 188 obj: 9.303927 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 279 (42.15) ml.loss tr: 535 (8.08) err_ts: 143 (42.31) ml.loss ts: 249 (7.37) obj: 9.303927e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 189 obj: 9.318783 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 281 (42.45) ml.loss tr: 543 (8.20) err_ts: 143 (42.31) ml.loss ts: 255 (7.54) obj: 9.318783e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 190 obj: 9.324838 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 286 (43.20) ml.loss tr: 556 (8.40) err_ts: 144 (42.60) ml.loss ts: 258 (7.63) obj: 9.324838e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 191 obj: 9.354251 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 286 (43.20) ml.loss tr: 546 (8.25) err_ts: 144 (42.60) ml.loss ts: 256 (7.57) obj: 9.354251e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 192 obj: 9.354461 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 278 (41.99) ml.loss tr: 538 (8.13) err_ts: 142 (42.01) ml.loss ts: 254 (7.51) obj: 9.354461e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 193 obj: 9.358727 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 269 (40.63) ml.loss tr: 529 (7.99) err_ts: 142 (42.01) ml.loss ts: 253 (7.49) obj: 9.358727e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 194 obj: 9.365304 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 270 (40.79) ml.loss tr: 531 (8.02) err_ts: 147 (43.49) ml.loss ts: 261 (7.72) obj: 9.365304e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 195 obj: 9.395575 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 270 (40.79) ml.loss tr: 522 (7.89) err_ts: 147 (43.49) ml.loss ts: 254 (7.51) obj: 9.395575e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 13  iter: 196 obj: 9.405241 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 13 err_tr: 269 (40.63) ml.loss tr: 527 (7.96) err_ts: 146 (43.20) ml.loss ts: 258 (7.63) obj: 9.405241e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 197 obj: 9.408044 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 271 (40.94) ml.loss tr: 535 (8.08) err_ts: 146 (43.20) ml.loss ts: 263 (7.78) obj: 9.408044e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 197 obj: 9.408044 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 271 (40.94) ml.loss tr: 535 (8.08) err_ts: 146 (43.20) ml.loss ts: 263 (7.78) obj: 9.408044e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 198 obj: 9.461062 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 272 (41.09) ml.loss tr: 542 (8.19) err_ts: 146 (43.20) ml.loss ts: 267 (7.90) obj: 9.461062e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 199 obj: 9.468728 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 273 (41.24) ml.loss tr: 549 (8.29) err_ts: 148 (43.79) ml.loss ts: 275 (8.14) obj: 9.468728e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 200 obj: 9.479112 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 274 (41.39) ml.loss tr: 557 (8.41) err_ts: 148 (43.79) ml.loss ts: 277 (8.20) obj: 9.479112e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 201 obj: 9.508849 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 274 (41.39) ml.loss tr: 552 (8.34) err_ts: 148 (43.79) ml.loss ts: 274 (8.11) obj: 9.508849e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 202 obj: 9.524063 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 271 (40.94) ml.loss tr: 537 (8.11) err_ts: 147 (43.49) ml.loss ts: 267 (7.90) obj: 9.524063e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 203 obj: 9.527720 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 273 (41.24) ml.loss tr: 541 (8.17) err_ts: 149 (44.08) ml.loss ts: 270 (7.99) obj: 9.527720e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 204 obj: 9.571242 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 270 (40.79) ml.loss tr: 530 (8.01) err_ts: 144 (42.60) ml.loss ts: 262 (7.75) obj: 9.571242e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 205 obj: 9.574000 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 273 (41.24) ml.loss tr: 540 (8.16) err_ts: 148 (43.79) ml.loss ts: 269 (7.96) obj: 9.574000e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 206 obj: 9.576196 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 274 (41.39) ml.loss tr: 546 (8.25) err_ts: 149 (44.08) ml.loss ts: 272 (8.05) obj: 9.576196e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 207 obj: 9.576593 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 276 (41.69) ml.loss tr: 550 (8.31) err_ts: 151 (44.67) ml.loss ts: 277 (8.20) obj: 9.576593e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 207 obj: 9.576593 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 276 (41.69) ml.loss tr: 550 (8.31) err_ts: 151 (44.67) ml.loss ts: 277 (8.20) obj: 9.576593e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 207 obj: 9.576593 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 276 (41.69) ml.loss tr: 550 (8.31) err_ts: 151 (44.67) ml.loss ts: 277 (8.20) obj: 9.576593e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 14  iter: 207 obj: 9.576593 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 14 err_tr: 276 (41.69) ml.loss tr: 550 (8.31) err_ts: 151 (44.67) ml.loss ts: 277 (8.20) obj: 9.576593e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 208 obj: 9.588782 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 274 (41.39) ml.loss tr: 547 (8.26) err_ts: 149 (44.08) ml.loss ts: 273 (8.08) obj: 9.588782e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 208 obj: 9.588782 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 274 (41.39) ml.loss tr: 547 (8.26) err_ts: 149 (44.08) ml.loss ts: 273 (8.08) obj: 9.588782e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 209 obj: 9.615775 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 270 (40.79) ml.loss tr: 538 (8.13) err_ts: 144 (42.60) ml.loss ts: 264 (7.81) obj: 9.615775e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 210 obj: 9.640668 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 259 (39.12) ml.loss tr: 517 (7.81) err_ts: 138 (40.83) ml.loss ts: 252 (7.46) obj: 9.640668e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 211 obj: 9.655142 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 265 (40.03) ml.loss tr: 526 (7.95) err_ts: 140 (41.42) ml.loss ts: 255 (7.54) obj: 9.655142e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 212 obj: 9.655589 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:55: td: 15 err_tr: 266 (40.18) ml.loss tr: 533 (8.05) err_ts: 143 (42.31) ml.loss ts: 258 (7.63) obj: 9.655589e+00
+17-Oct-2012 14:10:55: alg: M3LBP tm: 15  iter: 213 obj: 9.663856 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 265 (40.03) ml.loss tr: 527 (7.96) err_ts: 140 (41.42) ml.loss ts: 255 (7.54) obj: 9.663856e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 214 obj: 9.825939 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 259 (39.12) ml.loss tr: 517 (7.81) err_ts: 138 (40.83) ml.loss ts: 251 (7.43) obj: 9.825939e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 215 obj: 9.828140 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 261 (39.43) ml.loss tr: 519 (7.84) err_ts: 139 (41.12) ml.loss ts: 252 (7.46) obj: 9.828140e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 216 obj: 9.892553 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 253 (38.22) ml.loss tr: 507 (7.66) err_ts: 136 (40.24) ml.loss ts: 245 (7.25) obj: 9.892553e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 217 obj: 9.899526 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 252 (38.07) ml.loss tr: 505 (7.63) err_ts: 136 (40.24) ml.loss ts: 243 (7.19) obj: 9.899526e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 218 obj: 9.920347 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 252 (38.07) ml.loss tr: 496 (7.49) err_ts: 133 (39.35) ml.loss ts: 231 (6.83) obj: 9.920347e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 219 obj: 9.924620 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 248 (37.46) ml.loss tr: 491 (7.42) err_ts: 132 (39.05) ml.loss ts: 229 (6.78) obj: 9.924620e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 220 obj: 9.932951 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 252 (38.07) ml.loss tr: 497 (7.51) err_ts: 133 (39.35) ml.loss ts: 231 (6.83) obj: 9.932951e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 221 obj: 9.938779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 261 (39.43) ml.loss tr: 507 (7.66) err_ts: 140 (41.42) ml.loss ts: 236 (6.98) obj: 9.938779e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 15  iter: 221 obj: 9.938779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 15 err_tr: 261 (39.43) ml.loss tr: 507 (7.66) err_ts: 140 (41.42) ml.loss ts: 236 (6.98) obj: 9.938779e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 222 obj: 9.951052 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 265 (40.03) ml.loss tr: 512 (7.73) err_ts: 143 (42.31) ml.loss ts: 243 (7.19) obj: 9.951052e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 223 obj: 9.954039 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 264 (39.88) ml.loss tr: 507 (7.66) err_ts: 140 (41.42) ml.loss ts: 237 (7.01) obj: 9.954039e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 224 obj: 9.954611 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 267 (40.33) ml.loss tr: 514 (7.76) err_ts: 141 (41.72) ml.loss ts: 242 (7.16) obj: 9.954611e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 225 obj: 9.954693 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 267 (40.33) ml.loss tr: 514 (7.76) err_ts: 144 (42.60) ml.loss ts: 247 (7.31) obj: 9.954693e+00
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 226 obj: 10.065968 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 268 (40.48) ml.loss tr: 513 (7.75) err_ts: 143 (42.31) ml.loss ts: 240 (7.10) obj: 1.006597e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 227 obj: 10.093239 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 260 (39.27) ml.loss tr: 500 (7.55) err_ts: 139 (41.12) ml.loss ts: 232 (6.86) obj: 1.009324e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 228 obj: 10.105695 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 265 (40.03) ml.loss tr: 512 (7.73) err_ts: 143 (42.31) ml.loss ts: 244 (7.22) obj: 1.010569e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 229 obj: 10.105748 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 267 (40.33) ml.loss tr: 514 (7.76) err_ts: 143 (42.31) ml.loss ts: 246 (7.28) obj: 1.010575e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 230 obj: 10.126230 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 258 (38.97) ml.loss tr: 498 (7.52) err_ts: 138 (40.83) ml.loss ts: 230 (6.80) obj: 1.012623e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 231 obj: 10.128774 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 258 (38.97) ml.loss tr: 503 (7.60) err_ts: 139 (41.12) ml.loss ts: 236 (6.98) obj: 1.012877e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 232 obj: 10.130795 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 265 (40.03) ml.loss tr: 510 (7.70) err_ts: 142 (42.01) ml.loss ts: 239 (7.07) obj: 1.013080e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 233 obj: 10.137704 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 268 (40.48) ml.loss tr: 520 (7.85) err_ts: 144 (42.60) ml.loss ts: 250 (7.40) obj: 1.013770e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 234 obj: 10.226551 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 264 (39.88) ml.loss tr: 507 (7.66) err_ts: 141 (41.72) ml.loss ts: 240 (7.10) obj: 1.022655e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 16  iter: 235 obj: 10.253208 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 16 err_tr: 256 (38.67) ml.loss tr: 499 (7.54) err_ts: 140 (41.42) ml.loss ts: 237 (7.01) obj: 1.025321e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 236 obj: 10.259382 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 254 (38.37) ml.loss tr: 494 (7.46) err_ts: 139 (41.12) ml.loss ts: 233 (6.89) obj: 1.025938e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 237 obj: 10.276547 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 249 (37.61) ml.loss tr: 488 (7.37) err_ts: 131 (38.76) ml.loss ts: 226 (6.69) obj: 1.027655e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 237 obj: 10.276547 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 249 (37.61) ml.loss tr: 488 (7.37) err_ts: 131 (38.76) ml.loss ts: 226 (6.69) obj: 1.027655e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 238 obj: 10.338597 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 243 (36.71) ml.loss tr: 484 (7.31) err_ts: 131 (38.76) ml.loss ts: 227 (6.72) obj: 1.033860e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 239 obj: 10.340887 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 245 (37.01) ml.loss tr: 490 (7.40) err_ts: 131 (38.76) ml.loss ts: 231 (6.83) obj: 1.034089e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 240 obj: 10.371082 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 241 (36.40) ml.loss tr: 479 (7.24) err_ts: 126 (37.28) ml.loss ts: 220 (6.51) obj: 1.037108e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 241 obj: 10.451612 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 242 (36.56) ml.loss tr: 487 (7.36) err_ts: 128 (37.87) ml.loss ts: 227 (6.72) obj: 1.045161e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 242 obj: 10.476646 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 236 (35.65) ml.loss tr: 473 (7.15) err_ts: 120 (35.50) ml.loss ts: 213 (6.30) obj: 1.047665e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 243 obj: 10.510487 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 237 (35.80) ml.loss tr: 473 (7.15) err_ts: 121 (35.80) ml.loss ts: 213 (6.30) obj: 1.051049e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 244 obj: 10.511388 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 235 (35.50) ml.loss tr: 472 (7.13) err_ts: 123 (36.39) ml.loss ts: 217 (6.42) obj: 1.051139e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 245 obj: 10.536594 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:56: td: 17 err_tr: 232 (35.05) ml.loss tr: 469 (7.08) err_ts: 118 (34.91) ml.loss ts: 211 (6.24) obj: 1.053659e+01
+17-Oct-2012 14:10:56: alg: M3LBP tm: 17  iter: 246 obj: 10.541156 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 17 err_tr: 231 (34.89) ml.loss tr: 470 (7.10) err_ts: 120 (35.50) ml.loss ts: 215 (6.36) obj: 1.054116e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 17  iter: 247 obj: 10.544337 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 17 err_tr: 233 (35.20) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 225 (6.66) obj: 1.054434e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 17  iter: 248 obj: 10.592831 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 17 err_tr: 235 (35.50) ml.loss tr: 481 (7.27) err_ts: 123 (36.39) ml.loss ts: 227 (6.72) obj: 1.059283e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 17  iter: 249 obj: 10.597461 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 17 err_tr: 232 (35.05) ml.loss tr: 476 (7.19) err_ts: 121 (35.80) ml.loss ts: 222 (6.57) obj: 1.059746e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 250 obj: 10.612268 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 232 (35.05) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 224 (6.63) obj: 1.061227e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 251 obj: 10.668874 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 226 (34.14) ml.loss tr: 466 (7.04) err_ts: 118 (34.91) ml.loss ts: 215 (6.36) obj: 1.066887e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 252 obj: 10.679028 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 223 (33.69) ml.loss tr: 464 (7.01) err_ts: 117 (34.62) ml.loss ts: 213 (6.30) obj: 1.067903e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 253 obj: 10.689680 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 221 (33.38) ml.loss tr: 462 (6.98) err_ts: 115 (34.02) ml.loss ts: 215 (6.36) obj: 1.068968e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 254 obj: 10.711454 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 230 (34.74) ml.loss tr: 476 (7.19) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.071145e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 255 obj: 10.717082 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 468 (7.07) err_ts: 114 (33.73) ml.loss ts: 215 (6.36) obj: 1.071708e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 256 obj: 10.717220 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 468 (7.07) err_ts: 115 (34.02) ml.loss ts: 216 (6.39) obj: 1.071722e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 257 obj: 10.733636 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 465 (7.02) err_ts: 119 (35.21) ml.loss ts: 221 (6.54) obj: 1.073364e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 257 obj: 10.733636 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 465 (7.02) err_ts: 119 (35.21) ml.loss ts: 221 (6.54) obj: 1.073364e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 257 obj: 10.733636 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 465 (7.02) err_ts: 119 (35.21) ml.loss ts: 221 (6.54) obj: 1.073364e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 258 obj: 10.741958 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 223 (33.69) ml.loss tr: 467 (7.05) err_ts: 113 (33.43) ml.loss ts: 214 (6.33) obj: 1.074196e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 259 obj: 10.748925 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 221 (33.38) ml.loss tr: 469 (7.08) err_ts: 111 (32.84) ml.loss ts: 212 (6.27) obj: 1.074893e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 260 obj: 10.759907 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 470 (7.10) err_ts: 113 (33.43) ml.loss ts: 214 (6.33) obj: 1.075991e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 18  iter: 261 obj: 10.819485 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 18 err_tr: 222 (33.53) ml.loss tr: 470 (7.10) err_ts: 111 (32.84) ml.loss ts: 212 (6.27) obj: 1.081949e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 262 obj: 10.828118 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 226 (34.14) ml.loss tr: 474 (7.16) err_ts: 111 (32.84) ml.loss ts: 212 (6.27) obj: 1.082812e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 263 obj: 10.960436 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 225 (33.99) ml.loss tr: 472 (7.13) err_ts: 112 (33.14) ml.loss ts: 213 (6.30) obj: 1.096044e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 264 obj: 10.969930 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 223 (33.69) ml.loss tr: 470 (7.10) err_ts: 115 (34.02) ml.loss ts: 216 (6.39) obj: 1.096993e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 265 obj: 10.974496 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 221 (33.38) ml.loss tr: 463 (6.99) err_ts: 116 (34.32) ml.loss ts: 216 (6.39) obj: 1.097450e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 266 obj: 10.976980 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 223 (33.69) ml.loss tr: 464 (7.01) err_ts: 114 (33.73) ml.loss ts: 214 (6.33) obj: 1.097698e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 267 obj: 10.980093 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 228 (34.44) ml.loss tr: 468 (7.07) err_ts: 116 (34.32) ml.loss ts: 214 (6.33) obj: 1.098009e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 268 obj: 10.999614 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 232 (35.05) ml.loss tr: 478 (7.22) err_ts: 117 (34.62) ml.loss ts: 218 (6.45) obj: 1.099961e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 269 obj: 11.002988 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 224 (33.84) ml.loss tr: 470 (7.10) err_ts: 115 (34.02) ml.loss ts: 216 (6.39) obj: 1.100299e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 270 obj: 11.013424 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 225 (33.99) ml.loss tr: 473 (7.15) err_ts: 114 (33.73) ml.loss ts: 215 (6.36) obj: 1.101342e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 270 obj: 11.013424 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 225 (33.99) ml.loss tr: 473 (7.15) err_ts: 114 (33.73) ml.loss ts: 215 (6.36) obj: 1.101342e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 271 obj: 11.027226 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 222 (33.53) ml.loss tr: 464 (7.01) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.102723e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 272 obj: 11.034675 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 220 (33.23) ml.loss tr: 464 (7.01) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.103467e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 273 obj: 11.036954 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 226 (34.14) ml.loss tr: 468 (7.07) err_ts: 116 (34.32) ml.loss ts: 216 (6.39) obj: 1.103695e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 19  iter: 274 obj: 11.192298 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 19 err_tr: 223 (33.69) ml.loss tr: 465 (7.02) err_ts: 115 (34.02) ml.loss ts: 213 (6.30) obj: 1.119230e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 20  iter: 275 obj: 11.195326 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 20 err_tr: 224 (33.84) ml.loss tr: 465 (7.02) err_ts: 117 (34.62) ml.loss ts: 215 (6.36) obj: 1.119533e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 20  iter: 276 obj: 11.209191 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 20 err_tr: 229 (34.59) ml.loss tr: 470 (7.10) err_ts: 115 (34.02) ml.loss ts: 212 (6.27) obj: 1.120919e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 20  iter: 277 obj: 11.260950 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 20 err_tr: 231 (34.89) ml.loss tr: 473 (7.15) err_ts: 116 (34.32) ml.loss ts: 216 (6.39) obj: 1.126095e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 20  iter: 278 obj: 11.283546 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:57: td: 20 err_tr: 228 (34.44) ml.loss tr: 467 (7.05) err_ts: 116 (34.32) ml.loss ts: 212 (6.27) obj: 1.128355e+01
+17-Oct-2012 14:10:57: alg: M3LBP tm: 20  iter: 279 obj: 11.292543 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 231 (34.89) ml.loss tr: 469 (7.08) err_ts: 116 (34.32) ml.loss ts: 211 (6.24) obj: 1.129254e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 280 obj: 11.318000 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 228 (34.44) ml.loss tr: 467 (7.05) err_ts: 116 (34.32) ml.loss ts: 212 (6.27) obj: 1.131800e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 281 obj: 11.423612 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 231 (34.89) ml.loss tr: 470 (7.10) err_ts: 117 (34.62) ml.loss ts: 213 (6.30) obj: 1.142361e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 282 obj: 11.439780 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 226 (34.14) ml.loss tr: 466 (7.04) err_ts: 116 (34.32) ml.loss ts: 213 (6.30) obj: 1.143978e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 283 obj: 11.443280 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 220 (33.23) ml.loss tr: 460 (6.95) err_ts: 114 (33.73) ml.loss ts: 211 (6.24) obj: 1.144328e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 284 obj: 11.443436 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 220 (33.23) ml.loss tr: 460 (6.95) err_ts: 114 (33.73) ml.loss ts: 211 (6.24) obj: 1.144344e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 285 obj: 11.450865 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 226 (34.14) ml.loss tr: 466 (7.04) err_ts: 114 (33.73) ml.loss ts: 211 (6.24) obj: 1.145086e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 286 obj: 11.466117 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 225 (33.99) ml.loss tr: 468 (7.07) err_ts: 116 (34.32) ml.loss ts: 216 (6.39) obj: 1.146612e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 287 obj: 11.466288 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 222 (33.53) ml.loss tr: 465 (7.02) err_ts: 116 (34.32) ml.loss ts: 216 (6.39) obj: 1.146629e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 288 obj: 11.466530 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 220 (33.23) ml.loss tr: 463 (6.99) err_ts: 116 (34.32) ml.loss ts: 218 (6.45) obj: 1.146653e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 20  iter: 289 obj: 11.474236 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 20 err_tr: 223 (33.69) ml.loss tr: 470 (7.10) err_ts: 120 (35.50) ml.loss ts: 226 (6.69) obj: 1.147424e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 290 obj: 11.568467 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 222 (33.53) ml.loss tr: 473 (7.15) err_ts: 119 (35.21) ml.loss ts: 227 (6.72) obj: 1.156847e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 291 obj: 11.575120 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 219 (33.08) ml.loss tr: 470 (7.10) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.157512e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 292 obj: 11.591804 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 220 (33.23) ml.loss tr: 471 (7.11) err_ts: 120 (35.50) ml.loss ts: 230 (6.80) obj: 1.159180e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 293 obj: 11.599836 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 222 (33.53) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 235 (6.95) obj: 1.159984e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 294 obj: 11.604458 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 226 (34.14) ml.loss tr: 483 (7.30) err_ts: 122 (36.09) ml.loss ts: 235 (6.95) obj: 1.160446e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 295 obj: 11.693221 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 224 (33.84) ml.loss tr: 480 (7.25) err_ts: 121 (35.80) ml.loss ts: 236 (6.98) obj: 1.169322e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 296 obj: 11.710086 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 223 (33.69) ml.loss tr: 478 (7.22) err_ts: 120 (35.50) ml.loss ts: 230 (6.80) obj: 1.171009e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 297 obj: 11.718463 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 224 (33.84) ml.loss tr: 480 (7.25) err_ts: 118 (34.91) ml.loss ts: 228 (6.75) obj: 1.171846e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 298 obj: 11.749052 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.174905e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 299 obj: 11.749429 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 229 (34.59) ml.loss tr: 485 (7.33) err_ts: 119 (35.21) ml.loss ts: 228 (6.75) obj: 1.174943e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 300 obj: 11.756569 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 228 (34.44) ml.loss tr: 484 (7.31) err_ts: 116 (34.32) ml.loss ts: 225 (6.66) obj: 1.175657e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 301 obj: 11.768906 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 229 (34.59) ml.loss tr: 487 (7.36) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.176891e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 21  iter: 302 obj: 11.775239 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 21 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 114 (33.73) ml.loss ts: 220 (6.51) obj: 1.177524e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 302 obj: 11.775239 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 114 (33.73) ml.loss ts: 220 (6.51) obj: 1.177524e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 303 obj: 11.801617 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 225 (33.99) ml.loss tr: 482 (7.28) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.180162e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 304 obj: 11.808148 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 229 (34.59) ml.loss tr: 487 (7.36) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.180815e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 305 obj: 11.816120 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 228 (34.44) ml.loss tr: 484 (7.31) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.181612e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 306 obj: 11.820974 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 227 (34.29) ml.loss tr: 484 (7.31) err_ts: 113 (33.43) ml.loss ts: 218 (6.45) obj: 1.182097e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 307 obj: 11.825842 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 231 (34.89) ml.loss tr: 488 (7.37) err_ts: 113 (33.43) ml.loss ts: 218 (6.45) obj: 1.182584e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 308 obj: 11.843163 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 238 (35.95) ml.loss tr: 495 (7.48) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.184316e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 308 obj: 11.843163 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 238 (35.95) ml.loss tr: 495 (7.48) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.184316e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 309 obj: 11.856804 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 233 (35.20) ml.loss tr: 490 (7.40) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.185680e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 310 obj: 11.870195 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:58: td: 22 err_tr: 239 (36.10) ml.loss tr: 494 (7.46) err_ts: 113 (33.43) ml.loss ts: 216 (6.39) obj: 1.187020e+01
+17-Oct-2012 14:10:58: alg: M3LBP tm: 22  iter: 311 obj: 11.890950 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 22 err_tr: 242 (36.56) ml.loss tr: 497 (7.51) err_ts: 114 (33.73) ml.loss ts: 217 (6.42) obj: 1.189095e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 22  iter: 312 obj: 11.893656 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 22 err_tr: 240 (36.25) ml.loss tr: 495 (7.48) err_ts: 110 (32.54) ml.loss ts: 213 (6.30) obj: 1.189366e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 22  iter: 313 obj: 11.895663 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 22 err_tr: 243 (36.71) ml.loss tr: 498 (7.52) err_ts: 116 (34.32) ml.loss ts: 219 (6.48) obj: 1.189566e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 313 obj: 11.895663 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 243 (36.71) ml.loss tr: 498 (7.52) err_ts: 116 (34.32) ml.loss ts: 219 (6.48) obj: 1.189566e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 314 obj: 11.907688 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 239 (36.10) ml.loss tr: 494 (7.46) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.190769e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 314 obj: 11.907688 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 239 (36.10) ml.loss tr: 494 (7.46) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.190769e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 315 obj: 11.909927 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 241 (36.40) ml.loss tr: 498 (7.52) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.190993e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 316 obj: 11.925269 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 244 (36.86) ml.loss tr: 499 (7.54) err_ts: 117 (34.62) ml.loss ts: 220 (6.51) obj: 1.192527e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 317 obj: 11.978239 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 242 (36.56) ml.loss tr: 499 (7.54) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.197824e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 318 obj: 12.004921 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 242 (36.56) ml.loss tr: 498 (7.52) err_ts: 119 (35.21) ml.loss ts: 222 (6.57) obj: 1.200492e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 319 obj: 12.007241 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 244 (36.86) ml.loss tr: 501 (7.57) err_ts: 119 (35.21) ml.loss ts: 224 (6.63) obj: 1.200724e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 320 obj: 12.007843 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 245 (37.01) ml.loss tr: 503 (7.60) err_ts: 120 (35.50) ml.loss ts: 228 (6.75) obj: 1.200784e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 321 obj: 12.012647 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 242 (36.56) ml.loss tr: 499 (7.54) err_ts: 115 (34.02) ml.loss ts: 220 (6.51) obj: 1.201265e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 322 obj: 12.013414 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 243 (36.71) ml.loss tr: 500 (7.55) err_ts: 117 (34.62) ml.loss ts: 222 (6.57) obj: 1.201341e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 323 obj: 12.017606 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 245 (37.01) ml.loss tr: 503 (7.60) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.201761e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 324 obj: 12.022797 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 247 (37.31) ml.loss tr: 503 (7.60) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.202280e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 325 obj: 12.026192 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 244 (36.86) ml.loss tr: 500 (7.55) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.202619e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 23  iter: 326 obj: 12.035054 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 23 err_tr: 240 (36.25) ml.loss tr: 497 (7.51) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.203505e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 327 obj: 12.038038 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 245 (37.01) ml.loss tr: 502 (7.58) err_ts: 118 (34.91) ml.loss ts: 223 (6.60) obj: 1.203804e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 328 obj: 12.040806 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 246 (37.16) ml.loss tr: 501 (7.57) err_ts: 123 (36.39) ml.loss ts: 226 (6.69) obj: 1.204081e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 329 obj: 12.047175 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 247 (37.31) ml.loss tr: 504 (7.61) err_ts: 119 (35.21) ml.loss ts: 224 (6.63) obj: 1.204717e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 330 obj: 12.061985 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 248 (37.46) ml.loss tr: 505 (7.63) err_ts: 122 (36.09) ml.loss ts: 227 (6.72) obj: 1.206198e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 331 obj: 12.129878 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 255 (38.52) ml.loss tr: 514 (7.76) err_ts: 123 (36.39) ml.loss ts: 227 (6.72) obj: 1.212988e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 332 obj: 12.135965 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 249 (37.61) ml.loss tr: 508 (7.67) err_ts: 121 (35.80) ml.loss ts: 225 (6.66) obj: 1.213597e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 333 obj: 12.191196 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 249 (37.61) ml.loss tr: 508 (7.67) err_ts: 121 (35.80) ml.loss ts: 225 (6.66) obj: 1.219120e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 334 obj: 12.198357 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 243 (36.71) ml.loss tr: 504 (7.61) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.219836e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 335 obj: 12.217899 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 246 (37.16) ml.loss tr: 507 (7.66) err_ts: 117 (34.62) ml.loss ts: 221 (6.54) obj: 1.221790e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 336 obj: 12.233218 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 249 (37.61) ml.loss tr: 515 (7.78) err_ts: 119 (35.21) ml.loss ts: 224 (6.63) obj: 1.223322e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 337 obj: 12.235900 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 251 (37.92) ml.loss tr: 512 (7.73) err_ts: 120 (35.50) ml.loss ts: 224 (6.63) obj: 1.223590e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 338 obj: 12.238925 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 246 (37.16) ml.loss tr: 507 (7.66) err_ts: 118 (34.91) ml.loss ts: 222 (6.57) obj: 1.223892e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 339 obj: 12.239282 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 245 (37.01) ml.loss tr: 506 (7.64) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.223928e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 340 obj: 12.239680 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 245 (37.01) ml.loss tr: 506 (7.64) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.223968e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 24  iter: 341 obj: 12.243003 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 24 err_tr: 242 (36.56) ml.loss tr: 506 (7.64) err_ts: 114 (33.73) ml.loss ts: 219 (6.48) obj: 1.224300e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 25  iter: 342 obj: 12.252023 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 25 err_tr: 243 (36.71) ml.loss tr: 502 (7.58) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.225202e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 25  iter: 342 obj: 12.252023 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 25 err_tr: 243 (36.71) ml.loss tr: 502 (7.58) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.225202e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 25  iter: 342 obj: 12.252023 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:10:59: td: 25 err_tr: 243 (36.71) ml.loss tr: 502 (7.58) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.225202e+01
+17-Oct-2012 14:10:59: alg: M3LBP tm: 25  iter: 343 obj: 12.267779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 243 (36.71) ml.loss tr: 502 (7.58) err_ts: 116 (34.32) ml.loss ts: 219 (6.48) obj: 1.226778e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 344 obj: 12.272194 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 245 (37.01) ml.loss tr: 504 (7.61) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.227219e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 345 obj: 12.285428 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 244 (36.86) ml.loss tr: 500 (7.55) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.228543e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 345 obj: 12.285428 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 244 (36.86) ml.loss tr: 500 (7.55) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.228543e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 345 obj: 12.285428 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 244 (36.86) ml.loss tr: 500 (7.55) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.228543e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 346 obj: 12.287324 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 246 (37.16) ml.loss tr: 503 (7.60) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.228732e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 346 obj: 12.287324 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 246 (37.16) ml.loss tr: 503 (7.60) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.228732e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 347 obj: 12.307159 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 247 (37.31) ml.loss tr: 505 (7.63) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.230716e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 348 obj: 12.326297 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 247 (37.31) ml.loss tr: 505 (7.63) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.232630e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 25  iter: 349 obj: 12.330556 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 25 err_tr: 249 (37.61) ml.loss tr: 508 (7.67) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.233056e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 350 obj: 12.433401 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.243340e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 351 obj: 12.433469 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 248 (37.46) ml.loss tr: 506 (7.64) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.243347e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 352 obj: 12.438365 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 250 (37.76) ml.loss tr: 508 (7.67) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.243836e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 353 obj: 12.444741 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 249 (37.61) ml.loss tr: 508 (7.67) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.244474e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 353 obj: 12.444741 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 249 (37.61) ml.loss tr: 508 (7.67) err_ts: 116 (34.32) ml.loss ts: 221 (6.54) obj: 1.244474e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 354 obj: 12.463287 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 244 (36.86) ml.loss tr: 504 (7.61) err_ts: 117 (34.62) ml.loss ts: 221 (6.54) obj: 1.246329e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 354 obj: 12.463287 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 244 (36.86) ml.loss tr: 504 (7.61) err_ts: 117 (34.62) ml.loss ts: 221 (6.54) obj: 1.246329e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 355 obj: 12.478412 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 246 (37.16) ml.loss tr: 507 (7.66) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.247841e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 356 obj: 12.484199 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 243 (36.71) ml.loss tr: 504 (7.61) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.248420e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 357 obj: 12.640874 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 244 (36.86) ml.loss tr: 503 (7.60) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.264087e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 358 obj: 12.696340 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.269634e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 359 obj: 12.699988 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 243 (36.71) ml.loss tr: 506 (7.64) err_ts: 115 (34.02) ml.loss ts: 220 (6.51) obj: 1.269999e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 359 obj: 12.699988 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 243 (36.71) ml.loss tr: 506 (7.64) err_ts: 115 (34.02) ml.loss ts: 220 (6.51) obj: 1.269999e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 26  iter: 360 obj: 12.711288 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 26 err_tr: 245 (37.01) ml.loss tr: 508 (7.67) err_ts: 114 (33.73) ml.loss ts: 219 (6.48) obj: 1.271129e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 361 obj: 12.732250 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 247 (37.31) ml.loss tr: 505 (7.63) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.273225e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 362 obj: 12.733519 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 118 (34.91) ml.loss ts: 222 (6.57) obj: 1.273352e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 362 obj: 12.733519 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 118 (34.91) ml.loss ts: 222 (6.57) obj: 1.273352e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 362 obj: 12.733519 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 118 (34.91) ml.loss ts: 222 (6.57) obj: 1.273352e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 363 obj: 12.744625 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 243 (36.71) ml.loss tr: 501 (7.57) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.274462e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 364 obj: 12.845048 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 242 (36.56) ml.loss tr: 500 (7.55) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.284505e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 365 obj: 12.857845 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 236 (35.65) ml.loss tr: 494 (7.46) err_ts: 113 (33.43) ml.loss ts: 217 (6.42) obj: 1.285784e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 366 obj: 12.874578 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 228 (34.44) ml.loss tr: 484 (7.31) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.287458e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 367 obj: 12.893628 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 229 (34.59) ml.loss tr: 486 (7.34) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.289363e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 368 obj: 12.897911 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 231 (34.89) ml.loss tr: 487 (7.36) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.289791e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 368 obj: 12.897911 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 231 (34.89) ml.loss tr: 487 (7.36) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.289791e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 369 obj: 12.898539 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:00: td: 27 err_tr: 233 (35.20) ml.loss tr: 491 (7.42) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.289854e+01
+17-Oct-2012 14:11:00: alg: M3LBP tm: 27  iter: 370 obj: 13.031425 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 27 err_tr: 231 (34.89) ml.loss tr: 487 (7.36) err_ts: 113 (33.43) ml.loss ts: 215 (6.36) obj: 1.303143e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 27  iter: 371 obj: 13.049938 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 27 err_tr: 238 (35.95) ml.loss tr: 495 (7.48) err_ts: 112 (33.14) ml.loss ts: 214 (6.33) obj: 1.304994e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 27  iter: 372 obj: 13.068893 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 27 err_tr: 240 (36.25) ml.loss tr: 497 (7.51) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.306889e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 373 obj: 13.070402 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 237 (35.80) ml.loss tr: 494 (7.46) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.307040e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 374 obj: 13.080511 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 247 (37.31) ml.loss tr: 505 (7.63) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.308051e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 374 obj: 13.080511 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 247 (37.31) ml.loss tr: 505 (7.63) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.308051e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 375 obj: 13.085679 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 240 (36.25) ml.loss tr: 501 (7.57) err_ts: 108 (31.95) ml.loss ts: 212 (6.27) obj: 1.308568e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 376 obj: 13.104868 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 242 (36.56) ml.loss tr: 504 (7.61) err_ts: 110 (32.54) ml.loss ts: 214 (6.33) obj: 1.310487e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 376 obj: 13.104868 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 242 (36.56) ml.loss tr: 504 (7.61) err_ts: 110 (32.54) ml.loss ts: 214 (6.33) obj: 1.310487e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 376 obj: 13.104868 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 242 (36.56) ml.loss tr: 504 (7.61) err_ts: 110 (32.54) ml.loss ts: 214 (6.33) obj: 1.310487e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 377 obj: 13.108533 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 244 (36.86) ml.loss tr: 502 (7.58) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.310853e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 378 obj: 13.112235 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 241 (36.40) ml.loss tr: 498 (7.52) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.311224e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 379 obj: 13.141194 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 247 (37.31) ml.loss tr: 507 (7.66) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.314119e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 380 obj: 13.145368 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 242 (36.56) ml.loss tr: 500 (7.55) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.314537e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 381 obj: 13.164868 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 232 (35.05) ml.loss tr: 488 (7.37) err_ts: 113 (33.43) ml.loss ts: 215 (6.36) obj: 1.316487e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 382 obj: 13.177160 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 238 (35.95) ml.loss tr: 495 (7.48) err_ts: 114 (33.73) ml.loss ts: 216 (6.39) obj: 1.317716e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 383 obj: 13.177960 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 236 (35.65) ml.loss tr: 493 (7.45) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.317796e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 28  iter: 384 obj: 13.183262 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 28 err_tr: 227 (34.29) ml.loss tr: 484 (7.31) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.318326e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 384 obj: 13.183262 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 227 (34.29) ml.loss tr: 484 (7.31) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.318326e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 385 obj: 13.262710 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 226 (34.14) ml.loss tr: 484 (7.31) err_ts: 114 (33.73) ml.loss ts: 219 (6.48) obj: 1.326271e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 386 obj: 13.266588 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 231 (34.89) ml.loss tr: 488 (7.37) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.326659e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 387 obj: 13.273753 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 227 (34.29) ml.loss tr: 485 (7.33) err_ts: 115 (34.02) ml.loss ts: 221 (6.54) obj: 1.327375e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 387 obj: 13.273753 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 227 (34.29) ml.loss tr: 485 (7.33) err_ts: 115 (34.02) ml.loss ts: 221 (6.54) obj: 1.327375e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 388 obj: 13.279552 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 235 (35.50) ml.loss tr: 493 (7.45) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.327955e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 388 obj: 13.279552 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 235 (35.50) ml.loss tr: 493 (7.45) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.327955e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 389 obj: 13.290782 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 232 (35.05) ml.loss tr: 489 (7.39) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.329078e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 390 obj: 13.302327 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 224 (33.84) ml.loss tr: 481 (7.27) err_ts: 113 (33.43) ml.loss ts: 217 (6.42) obj: 1.330233e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 390 obj: 13.302327 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 224 (33.84) ml.loss tr: 481 (7.27) err_ts: 113 (33.43) ml.loss ts: 217 (6.42) obj: 1.330233e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 391 obj: 13.396153 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 225 (33.99) ml.loss tr: 482 (7.28) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.339615e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 392 obj: 13.396169 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 226 (34.14) ml.loss tr: 483 (7.30) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.339617e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 392 obj: 13.396169 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 226 (34.14) ml.loss tr: 483 (7.30) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.339617e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 29  iter: 393 obj: 13.398737 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 29 err_tr: 233 (35.20) ml.loss tr: 490 (7.40) err_ts: 111 (32.84) ml.loss ts: 216 (6.39) obj: 1.339874e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 394 obj: 13.404439 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 30 err_tr: 235 (35.50) ml.loss tr: 493 (7.45) err_ts: 114 (33.73) ml.loss ts: 220 (6.51) obj: 1.340444e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 395 obj: 13.418705 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 30 err_tr: 228 (34.44) ml.loss tr: 486 (7.34) err_ts: 114 (33.73) ml.loss ts: 221 (6.54) obj: 1.341870e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 396 obj: 13.441492 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 30 err_tr: 227 (34.29) ml.loss tr: 485 (7.33) err_ts: 113 (33.43) ml.loss ts: 218 (6.45) obj: 1.344149e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 397 obj: 13.458852 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 30 err_tr: 237 (35.80) ml.loss tr: 492 (7.43) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.345885e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 398 obj: 13.470381 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:01: td: 30 err_tr: 227 (34.29) ml.loss tr: 482 (7.28) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.347038e+01
+17-Oct-2012 14:11:01: alg: M3LBP tm: 30  iter: 399 obj: 13.472808 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 227 (34.29) ml.loss tr: 482 (7.28) err_ts: 114 (33.73) ml.loss ts: 217 (6.42) obj: 1.347281e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 400 obj: 13.477147 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 115 (34.02) ml.loss ts: 217 (6.42) obj: 1.347715e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 401 obj: 13.531716 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.353172e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 401 obj: 13.531716 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.353172e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 402 obj: 13.535089 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 228 (34.44) ml.loss tr: 485 (7.33) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.353509e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 403 obj: 13.538915 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 227 (34.29) ml.loss tr: 484 (7.31) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.353892e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 404 obj: 13.552687 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 230 (34.74) ml.loss tr: 487 (7.36) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.355269e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 30  iter: 405 obj: 13.554522 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 30 err_tr: 230 (34.74) ml.loss tr: 487 (7.36) err_ts: 116 (34.32) ml.loss ts: 223 (6.60) obj: 1.355452e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 406 obj: 13.608275 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 488 (7.37) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.360828e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 407 obj: 13.638515 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 486 (7.34) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.363851e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 407 obj: 13.638515 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 486 (7.34) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.363851e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 408 obj: 13.650150 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 226 (34.14) ml.loss tr: 480 (7.25) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.365015e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 409 obj: 13.670506 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 226 (34.14) ml.loss tr: 482 (7.28) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.367051e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 409 obj: 13.670506 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 226 (34.14) ml.loss tr: 482 (7.28) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.367051e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 410 obj: 13.723696 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 228 (34.44) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.372370e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 411 obj: 13.732822 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 228 (34.44) ml.loss tr: 486 (7.34) err_ts: 118 (34.91) ml.loss ts: 228 (6.75) obj: 1.373282e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 412 obj: 13.752959 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 489 (7.39) err_ts: 119 (35.21) ml.loss ts: 230 (6.80) obj: 1.375296e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 413 obj: 13.772393 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 489 (7.39) err_ts: 119 (35.21) ml.loss ts: 231 (6.83) obj: 1.377239e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 414 obj: 13.773311 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 228 (34.44) ml.loss tr: 487 (7.36) err_ts: 118 (34.91) ml.loss ts: 227 (6.72) obj: 1.377331e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 415 obj: 13.773381 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 228 (34.44) ml.loss tr: 487 (7.36) err_ts: 118 (34.91) ml.loss ts: 228 (6.75) obj: 1.377338e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 416 obj: 13.800256 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 230 (34.74) ml.loss tr: 488 (7.37) err_ts: 116 (34.32) ml.loss ts: 223 (6.60) obj: 1.380026e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 417 obj: 13.804450 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 226 (34.14) ml.loss tr: 481 (7.27) err_ts: 117 (34.62) ml.loss ts: 222 (6.57) obj: 1.380445e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 31  iter: 418 obj: 13.809025 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 31 err_tr: 227 (34.29) ml.loss tr: 483 (7.30) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.380902e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 419 obj: 13.863880 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 228 (34.44) ml.loss tr: 484 (7.31) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.386388e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 420 obj: 13.876973 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 231 (34.89) ml.loss tr: 489 (7.39) err_ts: 115 (34.02) ml.loss ts: 221 (6.54) obj: 1.387697e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 421 obj: 13.899569 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 226 (34.14) ml.loss tr: 483 (7.30) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.389957e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 422 obj: 13.964197 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 225 (33.99) ml.loss tr: 482 (7.28) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.396420e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 423 obj: 14.000759 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 229 (34.59) ml.loss tr: 486 (7.34) err_ts: 115 (34.02) ml.loss ts: 219 (6.48) obj: 1.400076e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 424 obj: 14.001205 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 227 (34.29) ml.loss tr: 482 (7.28) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.400120e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 425 obj: 14.017274 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 226 (34.14) ml.loss tr: 481 (7.27) err_ts: 115 (34.02) ml.loss ts: 220 (6.51) obj: 1.401727e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 426 obj: 14.026517 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 226 (34.14) ml.loss tr: 480 (7.25) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.402652e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 426 obj: 14.026517 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 226 (34.14) ml.loss tr: 480 (7.25) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.402652e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 427 obj: 14.026776 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.402678e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 428 obj: 14.039624 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 228 (34.44) ml.loss tr: 481 (7.27) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.403962e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 429 obj: 14.054591 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 226 (34.14) ml.loss tr: 478 (7.22) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.405459e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 32  iter: 430 obj: 14.057434 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:02: td: 32 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.405743e+01
+17-Oct-2012 14:11:02: alg: M3LBP tm: 33  iter: 431 obj: 14.075973 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.407597e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 432 obj: 14.088269 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 229 (34.59) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.408827e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 433 obj: 14.099139 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 229 (34.59) ml.loss tr: 481 (7.27) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.409914e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 434 obj: 14.105423 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 230 (34.74) ml.loss tr: 483 (7.30) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.410542e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 435 obj: 14.123194 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 230 (34.74) ml.loss tr: 484 (7.31) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.412319e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 436 obj: 14.124120 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 230 (34.74) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.412412e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 436 obj: 14.124120 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 230 (34.74) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.412412e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 437 obj: 14.128317 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 226 (34.14) ml.loss tr: 483 (7.30) err_ts: 122 (36.09) ml.loss ts: 234 (6.92) obj: 1.412832e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 438 obj: 14.134856 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 230 (34.74) ml.loss tr: 486 (7.34) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.413486e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 439 obj: 14.137445 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 121 (35.80) ml.loss ts: 229 (6.78) obj: 1.413744e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 439 obj: 14.137445 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 121 (35.80) ml.loss ts: 229 (6.78) obj: 1.413744e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 33  iter: 440 obj: 14.154732 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 33 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 121 (35.80) ml.loss ts: 229 (6.78) obj: 1.415473e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 440 obj: 14.154732 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 121 (35.80) ml.loss ts: 229 (6.78) obj: 1.415473e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 440 obj: 14.154732 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 121 (35.80) ml.loss ts: 229 (6.78) obj: 1.415473e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 441 obj: 14.157055 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 227 (34.29) ml.loss tr: 478 (7.22) err_ts: 121 (35.80) ml.loss ts: 228 (6.75) obj: 1.415705e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 442 obj: 14.173058 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 228 (34.44) ml.loss tr: 479 (7.24) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.417306e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 443 obj: 14.174281 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.417428e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 444 obj: 14.191681 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.419168e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 445 obj: 14.224341 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 226 (34.14) ml.loss tr: 479 (7.24) err_ts: 118 (34.91) ml.loss ts: 224 (6.63) obj: 1.422434e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 446 obj: 14.231187 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 225 (33.99) ml.loss tr: 478 (7.22) err_ts: 114 (33.73) ml.loss ts: 220 (6.51) obj: 1.423119e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 447 obj: 14.233040 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.423304e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 447 obj: 14.233040 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.423304e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 447 obj: 14.233040 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.423304e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 34  iter: 447 obj: 14.233040 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 34 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 116 (34.32) ml.loss ts: 222 (6.57) obj: 1.423304e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 448 obj: 14.233175 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 229 (34.59) ml.loss tr: 483 (7.30) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.423317e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 449 obj: 14.234000 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 229 (34.59) ml.loss tr: 483 (7.30) err_ts: 117 (34.62) ml.loss ts: 225 (6.66) obj: 1.423400e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 450 obj: 14.388582 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 229 (34.59) ml.loss tr: 484 (7.31) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.438858e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 451 obj: 14.399954 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 230 (34.74) ml.loss tr: 485 (7.33) err_ts: 119 (35.21) ml.loss ts: 227 (6.72) obj: 1.439995e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 451 obj: 14.399954 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 230 (34.74) ml.loss tr: 485 (7.33) err_ts: 119 (35.21) ml.loss ts: 227 (6.72) obj: 1.439995e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 452 obj: 14.402101 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 232 (35.05) ml.loss tr: 490 (7.40) err_ts: 121 (35.80) ml.loss ts: 230 (6.80) obj: 1.440210e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 453 obj: 14.409171 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 125 (36.98) ml.loss ts: 237 (7.01) obj: 1.440917e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 454 obj: 14.540820 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 227 (34.29) ml.loss tr: 488 (7.37) err_ts: 125 (36.98) ml.loss ts: 239 (7.07) obj: 1.454082e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 455 obj: 14.557899 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 231 (34.89) ml.loss tr: 493 (7.45) err_ts: 123 (36.39) ml.loss ts: 236 (6.98) obj: 1.455790e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 456 obj: 14.574737 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 231 (34.89) ml.loss tr: 493 (7.45) err_ts: 123 (36.39) ml.loss ts: 236 (6.98) obj: 1.457474e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 35  iter: 457 obj: 14.579077 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:03: td: 35 err_tr: 231 (34.89) ml.loss tr: 490 (7.40) err_ts: 123 (36.39) ml.loss ts: 236 (6.98) obj: 1.457908e+01
+17-Oct-2012 14:11:03: alg: M3LBP tm: 36  iter: 458 obj: 14.590293 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 232 (35.05) ml.loss tr: 490 (7.40) err_ts: 117 (34.62) ml.loss ts: 228 (6.75) obj: 1.459029e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 459 obj: 14.603469 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 229 (34.59) ml.loss tr: 486 (7.34) err_ts: 115 (34.02) ml.loss ts: 223 (6.60) obj: 1.460347e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 460 obj: 14.608078 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 232 (35.05) ml.loss tr: 489 (7.39) err_ts: 117 (34.62) ml.loss ts: 227 (6.72) obj: 1.460808e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 461 obj: 14.619752 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 237 (35.80) ml.loss tr: 497 (7.51) err_ts: 114 (33.73) ml.loss ts: 221 (6.54) obj: 1.461975e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 462 obj: 14.636928 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 238 (35.95) ml.loss tr: 498 (7.52) err_ts: 114 (33.73) ml.loss ts: 221 (6.54) obj: 1.463693e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 463 obj: 14.640510 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 234 (35.35) ml.loss tr: 490 (7.40) err_ts: 115 (34.02) ml.loss ts: 223 (6.60) obj: 1.464051e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 464 obj: 14.643612 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 232 (35.05) ml.loss tr: 486 (7.34) err_ts: 115 (34.02) ml.loss ts: 222 (6.57) obj: 1.464361e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 465 obj: 14.649816 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 234 (35.35) ml.loss tr: 490 (7.40) err_ts: 116 (34.32) ml.loss ts: 224 (6.63) obj: 1.464982e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 466 obj: 14.656393 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 228 (34.44) ml.loss tr: 484 (7.31) err_ts: 115 (34.02) ml.loss ts: 223 (6.60) obj: 1.465639e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 467 obj: 14.660709 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 230 (34.74) ml.loss tr: 486 (7.34) err_ts: 118 (34.91) ml.loss ts: 226 (6.69) obj: 1.466071e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 468 obj: 14.666409 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 230 (34.74) ml.loss tr: 483 (7.30) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.466641e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 469 obj: 14.676032 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 229 (34.59) ml.loss tr: 483 (7.30) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.467603e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 470 obj: 14.691007 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 226 (34.14) ml.loss tr: 479 (7.24) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.469101e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 36  iter: 471 obj: 14.708201 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 36 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.470820e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 471 obj: 14.708201 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 228 (34.44) ml.loss tr: 482 (7.28) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.470820e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 472 obj: 14.818617 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 228 (34.44) ml.loss tr: 480 (7.25) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.481862e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 473 obj: 14.826111 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 225 (33.99) ml.loss tr: 478 (7.22) err_ts: 118 (34.91) ml.loss ts: 224 (6.63) obj: 1.482611e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 473 obj: 14.826111 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 225 (33.99) ml.loss tr: 478 (7.22) err_ts: 118 (34.91) ml.loss ts: 224 (6.63) obj: 1.482611e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 474 obj: 14.834986 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 229 (34.59) ml.loss tr: 482 (7.28) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.483499e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 475 obj: 14.868382 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 224 (33.84) ml.loss tr: 476 (7.19) err_ts: 116 (34.32) ml.loss ts: 220 (6.51) obj: 1.486838e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 476 obj: 14.882436 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 229 (34.59) ml.loss tr: 481 (7.27) err_ts: 117 (34.62) ml.loss ts: 223 (6.60) obj: 1.488244e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 477 obj: 14.883850 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 227 (34.29) ml.loss tr: 478 (7.22) err_ts: 119 (35.21) ml.loss ts: 225 (6.66) obj: 1.488385e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 478 obj: 14.895547 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 223 (33.69) ml.loss tr: 474 (7.16) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.489555e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 479 obj: 14.909232 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 223 (33.69) ml.loss tr: 473 (7.15) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.490923e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 37  iter: 480 obj: 14.917665 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 37 err_tr: 223 (33.69) ml.loss tr: 471 (7.11) err_ts: 120 (35.50) ml.loss ts: 227 (6.72) obj: 1.491766e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 480 obj: 14.917665 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 223 (33.69) ml.loss tr: 471 (7.11) err_ts: 120 (35.50) ml.loss ts: 227 (6.72) obj: 1.491766e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 481 obj: 14.929713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 224 (33.84) ml.loss tr: 474 (7.16) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.492971e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 481 obj: 14.929713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 224 (33.84) ml.loss tr: 474 (7.16) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.492971e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 481 obj: 14.929713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 224 (33.84) ml.loss tr: 474 (7.16) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.492971e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 482 obj: 14.933310 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 224 (33.84) ml.loss tr: 471 (7.11) err_ts: 120 (35.50) ml.loss ts: 225 (6.66) obj: 1.493331e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 483 obj: 14.937171 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 225 (33.99) ml.loss tr: 474 (7.16) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.493717e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 484 obj: 14.949352 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 224 (33.84) ml.loss tr: 476 (7.19) err_ts: 121 (35.80) ml.loss ts: 228 (6.75) obj: 1.494935e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 485 obj: 14.951690 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 225 (33.99) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.495169e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 486 obj: 14.956531 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:04: td: 38 err_tr: 226 (34.14) ml.loss tr: 480 (7.25) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.495653e+01
+17-Oct-2012 14:11:04: alg: M3LBP tm: 38  iter: 486 obj: 14.956531 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 38 err_tr: 226 (34.14) ml.loss tr: 480 (7.25) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.495653e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 38  iter: 487 obj: 14.961984 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 38 err_tr: 225 (33.99) ml.loss tr: 478 (7.22) err_ts: 120 (35.50) ml.loss ts: 227 (6.72) obj: 1.496198e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 487 obj: 14.961984 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 225 (33.99) ml.loss tr: 478 (7.22) err_ts: 120 (35.50) ml.loss ts: 227 (6.72) obj: 1.496198e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 488 obj: 14.966137 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 224 (33.84) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.496614e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 489 obj: 14.984350 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 224 (33.84) ml.loss tr: 478 (7.22) err_ts: 122 (36.09) ml.loss ts: 229 (6.78) obj: 1.498435e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 490 obj: 14.988731 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 227 (34.29) ml.loss tr: 480 (7.25) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.498873e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 491 obj: 14.990657 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 226 (34.14) ml.loss tr: 479 (7.24) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.499066e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 492 obj: 14.991756 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 227 (34.29) ml.loss tr: 481 (7.27) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.499176e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 492 obj: 14.991756 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 227 (34.29) ml.loss tr: 481 (7.27) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.499176e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 493 obj: 14.998716 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 223 (33.69) ml.loss tr: 476 (7.19) err_ts: 121 (35.80) ml.loss ts: 228 (6.75) obj: 1.499872e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 494 obj: 15.017183 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 228 (34.44) ml.loss tr: 483 (7.30) err_ts: 119 (35.21) ml.loss ts: 226 (6.69) obj: 1.501718e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 495 obj: 15.059078 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 225 (33.99) ml.loss tr: 482 (7.28) err_ts: 122 (36.09) ml.loss ts: 232 (6.86) obj: 1.505908e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 496 obj: 15.064796 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 224 (33.84) ml.loss tr: 477 (7.21) err_ts: 122 (36.09) ml.loss ts: 230 (6.80) obj: 1.506480e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 39  iter: 497 obj: 15.083191 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 39 err_tr: 225 (33.99) ml.loss tr: 480 (7.25) err_ts: 119 (35.21) ml.loss ts: 227 (6.72) obj: 1.508319e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 498 obj: 15.109708 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 227 (34.29) ml.loss tr: 481 (7.27) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.510971e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 498 obj: 15.109708 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 227 (34.29) ml.loss tr: 481 (7.27) err_ts: 118 (34.91) ml.loss ts: 225 (6.66) obj: 1.510971e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 499 obj: 15.116580 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 225 (33.99) ml.loss tr: 479 (7.24) err_ts: 118 (34.91) ml.loss ts: 224 (6.63) obj: 1.511658e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 500 obj: 15.123802 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 223 (33.69) ml.loss tr: 477 (7.21) err_ts: 120 (35.50) ml.loss ts: 226 (6.69) obj: 1.512380e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 501 obj: 15.132750 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 221 (33.38) ml.loss tr: 473 (7.15) err_ts: 119 (35.21) ml.loss ts: 222 (6.57) obj: 1.513275e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 502 obj: 15.133447 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 219 (33.08) ml.loss tr: 468 (7.07) err_ts: 118 (34.91) ml.loss ts: 220 (6.51) obj: 1.513345e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 503 obj: 15.146731 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 219 (33.08) ml.loss tr: 467 (7.05) err_ts: 118 (34.91) ml.loss ts: 220 (6.51) obj: 1.514673e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 504 obj: 15.153756 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 221 (33.38) ml.loss tr: 472 (7.13) err_ts: 120 (35.50) ml.loss ts: 223 (6.60) obj: 1.515376e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 505 obj: 15.166468 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 220 (33.23) ml.loss tr: 472 (7.13) err_ts: 118 (34.91) ml.loss ts: 221 (6.54) obj: 1.516647e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 506 obj: 15.169956 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 224 (33.84) ml.loss tr: 477 (7.21) err_ts: 116 (34.32) ml.loss ts: 219 (6.48) obj: 1.516996e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 507 obj: 15.226121 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 224 (33.84) ml.loss tr: 477 (7.21) err_ts: 116 (34.32) ml.loss ts: 219 (6.48) obj: 1.522612e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 40  iter: 508 obj: 15.245609 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 40 err_tr: 223 (33.69) ml.loss tr: 475 (7.18) err_ts: 117 (34.62) ml.loss ts: 220 (6.51) obj: 1.524561e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 509 obj: 15.253406 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 225 (33.99) ml.loss tr: 479 (7.24) err_ts: 117 (34.62) ml.loss ts: 224 (6.63) obj: 1.525341e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 510 obj: 15.280938 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 226 (34.14) ml.loss tr: 482 (7.28) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.528094e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 511 obj: 15.305700 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 224 (33.84) ml.loss tr: 479 (7.24) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.530570e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 512 obj: 15.337008 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 223 (33.69) ml.loss tr: 477 (7.21) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.533701e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 513 obj: 15.495925 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 224 (33.84) ml.loss tr: 476 (7.19) err_ts: 115 (34.02) ml.loss ts: 218 (6.45) obj: 1.549592e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 514 obj: 15.499931 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 225 (33.99) ml.loss tr: 479 (7.24) err_ts: 113 (33.43) ml.loss ts: 216 (6.39) obj: 1.549993e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 515 obj: 15.518039 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:05: td: 41 err_tr: 225 (33.99) ml.loss tr: 479 (7.24) err_ts: 113 (33.43) ml.loss ts: 216 (6.39) obj: 1.551804e+01
+17-Oct-2012 14:11:05: alg: M3LBP tm: 41  iter: 516 obj: 15.526697 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 41 err_tr: 225 (33.99) ml.loss tr: 481 (7.27) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.552670e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 41  iter: 517 obj: 15.531033 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 41 err_tr: 233 (35.20) ml.loss tr: 489 (7.39) err_ts: 110 (32.54) ml.loss ts: 213 (6.30) obj: 1.553103e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 41  iter: 518 obj: 15.542960 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 41 err_tr: 240 (36.25) ml.loss tr: 496 (7.49) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.554296e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 41  iter: 519 obj: 15.547005 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 41 err_tr: 243 (36.71) ml.loss tr: 499 (7.54) err_ts: 114 (33.73) ml.loss ts: 217 (6.42) obj: 1.554700e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 520 obj: 15.550641 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 240 (36.25) ml.loss tr: 496 (7.49) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.555064e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 520 obj: 15.550641 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 240 (36.25) ml.loss tr: 496 (7.49) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.555064e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 521 obj: 15.559295 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 237 (35.80) ml.loss tr: 491 (7.42) err_ts: 109 (32.25) ml.loss ts: 211 (6.24) obj: 1.555930e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 522 obj: 15.559576 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 236 (35.65) ml.loss tr: 490 (7.40) err_ts: 109 (32.25) ml.loss ts: 211 (6.24) obj: 1.555958e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 523 obj: 15.576010 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 232 (35.05) ml.loss tr: 487 (7.36) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.557601e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 524 obj: 15.577754 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 240 (36.25) ml.loss tr: 495 (7.48) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.557775e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 525 obj: 15.579767 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 235 (35.50) ml.loss tr: 487 (7.36) err_ts: 112 (33.14) ml.loss ts: 216 (6.39) obj: 1.557977e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 526 obj: 15.644978 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 232 (35.05) ml.loss tr: 482 (7.28) err_ts: 110 (32.54) ml.loss ts: 213 (6.30) obj: 1.564498e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 526 obj: 15.644978 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 232 (35.05) ml.loss tr: 482 (7.28) err_ts: 110 (32.54) ml.loss ts: 213 (6.30) obj: 1.564498e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 527 obj: 15.698944 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 233 (35.20) ml.loss tr: 483 (7.30) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.569894e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 528 obj: 15.799235 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 234 (35.35) ml.loss tr: 484 (7.31) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.579923e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 42  iter: 529 obj: 15.801572 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 42 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 114 (33.73) ml.loss ts: 218 (6.45) obj: 1.580157e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 530 obj: 15.804994 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 237 (35.80) ml.loss tr: 487 (7.36) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.580499e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 530 obj: 15.804994 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 237 (35.80) ml.loss tr: 487 (7.36) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.580499e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 531 obj: 15.808942 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 232 (35.05) ml.loss tr: 482 (7.28) err_ts: 113 (33.43) ml.loss ts: 216 (6.39) obj: 1.580894e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 532 obj: 15.820325 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 236 (35.65) ml.loss tr: 487 (7.36) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.582032e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 533 obj: 15.825542 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 239 (36.10) ml.loss tr: 491 (7.42) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.582554e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 534 obj: 15.838638 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 236 (35.65) ml.loss tr: 488 (7.37) err_ts: 111 (32.84) ml.loss ts: 214 (6.33) obj: 1.583864e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 535 obj: 15.938528 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 234 (35.35) ml.loss tr: 484 (7.31) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.593853e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 536 obj: 15.942537 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 239 (36.10) ml.loss tr: 490 (7.40) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.594254e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 537 obj: 15.947076 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 237 (35.80) ml.loss tr: 488 (7.37) err_ts: 112 (33.14) ml.loss ts: 217 (6.42) obj: 1.594708e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 538 obj: 16.042769 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 238 (35.95) ml.loss tr: 489 (7.39) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.604277e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 43  iter: 539 obj: 16.073723 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 43 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.607372e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 539 obj: 16.073723 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.607372e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 539 obj: 16.073723 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.607372e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 539 obj: 16.073723 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.607372e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 540 obj: 16.074371 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 232 (35.05) ml.loss tr: 482 (7.28) err_ts: 110 (32.54) ml.loss ts: 212 (6.27) obj: 1.607437e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 541 obj: 16.076231 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 235 (35.50) ml.loss tr: 486 (7.34) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.607623e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 542 obj: 16.076332 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 235 (35.50) ml.loss tr: 487 (7.36) err_ts: 112 (33.14) ml.loss ts: 218 (6.45) obj: 1.607633e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 543 obj: 16.076608 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:06: td: 44 err_tr: 235 (35.50) ml.loss tr: 484 (7.31) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.607661e+01
+17-Oct-2012 14:11:06: alg: M3LBP tm: 44  iter: 544 obj: 16.083849 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 44 err_tr: 231 (34.89) ml.loss tr: 480 (7.25) err_ts: 114 (33.73) ml.loss ts: 217 (6.42) obj: 1.608385e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 44  iter: 545 obj: 16.099630 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 44 err_tr: 229 (34.59) ml.loss tr: 481 (7.27) err_ts: 114 (33.73) ml.loss ts: 221 (6.54) obj: 1.609963e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 44  iter: 546 obj: 16.121977 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 44 err_tr: 232 (35.05) ml.loss tr: 481 (7.27) err_ts: 112 (33.14) ml.loss ts: 215 (6.36) obj: 1.612198e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 44  iter: 547 obj: 16.122290 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 44 err_tr: 235 (35.50) ml.loss tr: 484 (7.31) err_ts: 111 (32.84) ml.loss ts: 213 (6.30) obj: 1.612229e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 44  iter: 548 obj: 16.143920 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 44 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.614392e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 548 obj: 16.143920 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 234 (35.35) ml.loss tr: 485 (7.33) err_ts: 113 (33.43) ml.loss ts: 219 (6.48) obj: 1.614392e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 549 obj: 16.162870 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 234 (35.35) ml.loss tr: 486 (7.34) err_ts: 113 (33.43) ml.loss ts: 220 (6.51) obj: 1.616287e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 550 obj: 16.209691 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 233 (35.20) ml.loss tr: 486 (7.34) err_ts: 114 (33.73) ml.loss ts: 224 (6.63) obj: 1.620969e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 550 obj: 16.209691 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 233 (35.20) ml.loss tr: 486 (7.34) err_ts: 114 (33.73) ml.loss ts: 224 (6.63) obj: 1.620969e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 551 obj: 16.222729 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 230 (34.74) ml.loss tr: 485 (7.33) err_ts: 116 (34.32) ml.loss ts: 226 (6.69) obj: 1.622273e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 552 obj: 16.232387 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 225 (33.99) ml.loss tr: 479 (7.24) err_ts: 116 (34.32) ml.loss ts: 226 (6.69) obj: 1.623239e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 553 obj: 16.247648 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 227 (34.29) ml.loss tr: 475 (7.18) err_ts: 114 (33.73) ml.loss ts: 219 (6.48) obj: 1.624765e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 554 obj: 16.297860 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 116 (34.32) ml.loss ts: 224 (6.63) obj: 1.629786e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 554 obj: 16.297860 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 116 (34.32) ml.loss ts: 224 (6.63) obj: 1.629786e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 555 obj: 16.299795 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 115 (34.02) ml.loss ts: 223 (6.60) obj: 1.629979e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 556 obj: 16.308541 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 224 (33.84) ml.loss tr: 472 (7.13) err_ts: 110 (32.54) ml.loss ts: 215 (6.36) obj: 1.630854e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 45  iter: 557 obj: 16.346780 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 45 err_tr: 226 (34.14) ml.loss tr: 475 (7.18) err_ts: 111 (32.84) ml.loss ts: 216 (6.39) obj: 1.634678e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 558 obj: 16.346819 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 475 (7.18) err_ts: 111 (32.84) ml.loss ts: 216 (6.39) obj: 1.634682e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 559 obj: 16.350015 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 227 (34.29) ml.loss tr: 481 (7.27) err_ts: 116 (34.32) ml.loss ts: 224 (6.63) obj: 1.635001e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 560 obj: 16.352389 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 225 (33.99) ml.loss tr: 477 (7.21) err_ts: 117 (34.62) ml.loss ts: 225 (6.66) obj: 1.635239e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 561 obj: 16.374240 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 228 (34.44) ml.loss tr: 475 (7.18) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.637424e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 561 obj: 16.374240 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 228 (34.44) ml.loss tr: 475 (7.18) err_ts: 111 (32.84) ml.loss ts: 215 (6.36) obj: 1.637424e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 562 obj: 16.394877 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 224 (33.84) ml.loss tr: 473 (7.15) err_ts: 117 (34.62) ml.loss ts: 225 (6.66) obj: 1.639488e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 563 obj: 16.401713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 119 (35.21) ml.loss ts: 230 (6.80) obj: 1.640171e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 563 obj: 16.401713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 119 (35.21) ml.loss ts: 230 (6.80) obj: 1.640171e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 563 obj: 16.401713 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 119 (35.21) ml.loss ts: 230 (6.80) obj: 1.640171e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 564 obj: 16.412761 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 229 (34.59) ml.loss tr: 481 (7.27) err_ts: 119 (35.21) ml.loss ts: 230 (6.80) obj: 1.641276e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 565 obj: 16.421005 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 231 (34.89) ml.loss tr: 482 (7.28) err_ts: 115 (34.02) ml.loss ts: 223 (6.60) obj: 1.642101e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 566 obj: 16.432627 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 114 (33.73) ml.loss ts: 222 (6.57) obj: 1.643263e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 566 obj: 16.432627 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 477 (7.21) err_ts: 114 (33.73) ml.loss ts: 222 (6.57) obj: 1.643263e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 46  iter: 567 obj: 16.489737 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 46 err_tr: 226 (34.14) ml.loss tr: 478 (7.22) err_ts: 114 (33.73) ml.loss ts: 223 (6.60) obj: 1.648974e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 568 obj: 16.491388 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 47 err_tr: 229 (34.59) ml.loss tr: 484 (7.31) err_ts: 117 (34.62) ml.loss ts: 228 (6.75) obj: 1.649139e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 569 obj: 16.499054 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 47 err_tr: 228 (34.44) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 232 (6.86) obj: 1.649905e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 569 obj: 16.499054 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 47 err_tr: 228 (34.44) ml.loss tr: 485 (7.33) err_ts: 118 (34.91) ml.loss ts: 232 (6.86) obj: 1.649905e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 570 obj: 16.508779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 47 err_tr: 226 (34.14) ml.loss tr: 482 (7.28) err_ts: 120 (35.50) ml.loss ts: 234 (6.92) obj: 1.650878e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 570 obj: 16.508779 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:07: td: 47 err_tr: 226 (34.14) ml.loss tr: 482 (7.28) err_ts: 120 (35.50) ml.loss ts: 234 (6.92) obj: 1.650878e+01
+17-Oct-2012 14:11:07: alg: M3LBP tm: 47  iter: 571 obj: 16.516417 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 223 (33.69) ml.loss tr: 479 (7.24) err_ts: 120 (35.50) ml.loss ts: 233 (6.89) obj: 1.651642e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 572 obj: 16.516708 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 482 (7.28) err_ts: 122 (36.09) ml.loss ts: 236 (6.98) obj: 1.651671e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 573 obj: 16.571661 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 483 (7.30) err_ts: 122 (36.09) ml.loss ts: 236 (6.98) obj: 1.657166e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 573 obj: 16.571661 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 483 (7.30) err_ts: 122 (36.09) ml.loss ts: 236 (6.98) obj: 1.657166e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 574 obj: 16.579060 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 483 (7.30) err_ts: 122 (36.09) ml.loss ts: 234 (6.92) obj: 1.657906e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 575 obj: 16.581723 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 228 (34.44) ml.loss tr: 486 (7.34) err_ts: 124 (36.69) ml.loss ts: 239 (7.07) obj: 1.658172e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 576 obj: 16.582353 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 228 (34.44) ml.loss tr: 486 (7.34) err_ts: 124 (36.69) ml.loss ts: 239 (7.07) obj: 1.658235e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 577 obj: 16.589807 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 228 (34.44) ml.loss tr: 487 (7.36) err_ts: 121 (35.80) ml.loss ts: 236 (6.98) obj: 1.658981e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 577 obj: 16.589807 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 228 (34.44) ml.loss tr: 487 (7.36) err_ts: 121 (35.80) ml.loss ts: 236 (6.98) obj: 1.658981e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 578 obj: 16.646939 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 226 (34.14) ml.loss tr: 488 (7.37) err_ts: 120 (35.50) ml.loss ts: 234 (6.92) obj: 1.664694e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 579 obj: 16.670864 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 227 (34.29) ml.loss tr: 488 (7.37) err_ts: 118 (34.91) ml.loss ts: 231 (6.83) obj: 1.667086e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 580 obj: 16.673556 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 486 (7.34) err_ts: 117 (34.62) ml.loss ts: 230 (6.80) obj: 1.667356e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 580 obj: 16.673556 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 225 (33.99) ml.loss tr: 486 (7.34) err_ts: 117 (34.62) ml.loss ts: 230 (6.80) obj: 1.667356e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 47  iter: 581 obj: 16.685933 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 47 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 119 (35.21) ml.loss ts: 234 (6.92) obj: 1.668593e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 581 obj: 16.685933 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 119 (35.21) ml.loss ts: 234 (6.92) obj: 1.668593e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 582 obj: 16.704305 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 121 (35.80) ml.loss ts: 237 (7.01) obj: 1.670430e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 582 obj: 16.704305 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 121 (35.80) ml.loss ts: 237 (7.01) obj: 1.670430e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 583 obj: 16.759612 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 121 (35.80) ml.loss ts: 237 (7.01) obj: 1.675961e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 584 obj: 16.765949 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 229 (34.59) ml.loss tr: 487 (7.36) err_ts: 124 (36.69) ml.loss ts: 241 (7.13) obj: 1.676595e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 585 obj: 16.789456 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 228 (34.44) ml.loss tr: 488 (7.37) err_ts: 121 (35.80) ml.loss ts: 237 (7.01) obj: 1.678946e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 586 obj: 16.797697 mu: max 0.010000 min 0.000000 dgap: Inf
+17-Oct-2012 14:11:08: td: 48 err_tr: 226 (34.14) ml.loss tr: 488 (7.37) err_ts: 120 (35.50) ml.loss ts: 235 (6.95) obj: 1.679770e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 586 obj: 16.797697 mu: max 0.010000 min 0.000000 dgap: 3.030831
+17-Oct-2012 14:11:08: td: 48 err_tr: 226 (34.14) ml.loss tr: 488 (7.37) err_ts: 120 (35.50) ml.loss ts: 235 (6.95) obj: 1.679770e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 587 obj: 16.811349 mu: max 0.010000 min 0.000000 dgap: 3.017180
+17-Oct-2012 14:11:08: td: 48 err_tr: 227 (34.29) ml.loss tr: 488 (7.37) err_ts: 118 (34.91) ml.loss ts: 231 (6.83) obj: 1.681135e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 588 obj: 16.835685 mu: max 0.010000 min 0.000000 dgap: 2.992844
+17-Oct-2012 14:11:08: td: 48 err_tr: 230 (34.74) ml.loss tr: 493 (7.45) err_ts: 120 (35.50) ml.loss ts: 235 (6.95) obj: 1.683568e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 589 obj: 16.857344 mu: max 0.010000 min 0.000000 dgap: 2.971184
+17-Oct-2012 14:11:08: td: 48 err_tr: 233 (35.20) ml.loss tr: 497 (7.51) err_ts: 120 (35.50) ml.loss ts: 235 (6.95) obj: 1.685734e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 590 obj: 16.877739 mu: max 0.010000 min 0.000000 dgap: 2.950790
+17-Oct-2012 14:11:08: td: 48 err_tr: 234 (35.35) ml.loss tr: 497 (7.51) err_ts: 119 (35.21) ml.loss ts: 234 (6.92) obj: 1.687774e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 591 obj: 16.884884 mu: max 0.010000 min 0.000000 dgap: 2.943644
+17-Oct-2012 14:11:08: td: 48 err_tr: 233 (35.20) ml.loss tr: 496 (7.49) err_ts: 120 (35.50) ml.loss ts: 235 (6.95) obj: 1.688488e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 592 obj: 16.908099 mu: max 0.010000 min 0.000000 dgap: 2.920430
+17-Oct-2012 14:11:08: td: 48 err_tr: 235 (35.50) ml.loss tr: 499 (7.54) err_ts: 119 (35.21) ml.loss ts: 235 (6.95) obj: 1.690810e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 593 obj: 16.915967 mu: max 0.010000 min 0.000000 dgap: 2.912562
+17-Oct-2012 14:11:08: td: 48 err_tr: 232 (35.05) ml.loss tr: 497 (7.51) err_ts: 120 (35.50) ml.loss ts: 236 (6.98) obj: 1.691597e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 48  iter: 594 obj: 16.919207 mu: max 0.010000 min 0.000000 dgap: 2.909321
+17-Oct-2012 14:11:08: td: 48 err_tr: 230 (34.74) ml.loss tr: 495 (7.48) err_ts: 120 (35.50) ml.loss ts: 236 (6.98) obj: 1.691921e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 595 obj: 16.933559 mu: max 0.010000 min 0.000000 dgap: 2.894970
+17-Oct-2012 14:11:08: td: 49 err_tr: 235 (35.50) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 236 (6.98) obj: 1.693356e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 596 obj: 16.939130 mu: max 0.010000 min 0.000000 dgap: 2.889399
+17-Oct-2012 14:11:08: td: 49 err_tr: 232 (35.05) ml.loss tr: 499 (7.54) err_ts: 121 (35.80) ml.loss ts: 238 (7.04) obj: 1.693913e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 597 obj: 16.959164 mu: max 0.010000 min 0.000000 dgap: 2.869365
+17-Oct-2012 14:11:08: td: 49 err_tr: 238 (35.95) ml.loss tr: 505 (7.63) err_ts: 122 (36.09) ml.loss ts: 239 (7.07) obj: 1.695916e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 598 obj: 16.964292 mu: max 0.010000 min 0.000000 dgap: 2.864237
+17-Oct-2012 14:11:08: td: 49 err_tr: 237 (35.80) ml.loss tr: 500 (7.55) err_ts: 119 (35.21) ml.loss ts: 235 (6.95) obj: 1.696429e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 599 obj: 16.967018 mu: max 0.010000 min 0.000000 dgap: 2.861511
+17-Oct-2012 14:11:08: td: 49 err_tr: 236 (35.65) ml.loss tr: 500 (7.55) err_ts: 119 (35.21) ml.loss ts: 236 (6.98) obj: 1.696702e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 600 obj: 16.971317 mu: max 0.010000 min 0.000000 dgap: 2.857212
+17-Oct-2012 14:11:08: td: 49 err_tr: 238 (35.95) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 238 (7.04) obj: 1.697132e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 601 obj: 16.978447 mu: max 0.010000 min 0.000000 dgap: 2.850081
+17-Oct-2012 14:11:08: td: 49 err_tr: 237 (35.80) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 237 (7.01) obj: 1.697845e+01
+17-Oct-2012 14:11:08: alg: M3LBP tm: 49  iter: 602 obj: 16.991366 mu: max 0.010000 min 0.000000 dgap: 2.837163
+17-Oct-2012 14:11:08: td: 49 err_tr: 236 (35.65) ml.loss tr: 504 (7.61) err_ts: 122 (36.09) ml.loss ts: 241 (7.13) obj: 1.699137e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 49  iter: 603 obj: 17.002681 mu: max 0.010000 min 0.000000 dgap: 2.825848
+17-Oct-2012 14:11:09: td: 49 err_tr: 237 (35.80) ml.loss tr: 503 (7.60) err_ts: 121 (35.80) ml.loss ts: 240 (7.10) obj: 1.700268e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 49  iter: 604 obj: 17.016291 mu: max 0.010000 min 0.000000 dgap: 2.812238
+17-Oct-2012 14:11:09: td: 49 err_tr: 236 (35.65) ml.loss tr: 500 (7.55) err_ts: 119 (35.21) ml.loss ts: 237 (7.01) obj: 1.701629e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 49  iter: 605 obj: 17.020902 mu: max 0.010000 min 0.000000 dgap: 2.807627
+17-Oct-2012 14:11:09: td: 49 err_tr: 237 (35.80) ml.loss tr: 502 (7.58) err_ts: 121 (35.80) ml.loss ts: 239 (7.07) obj: 1.702090e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 49  iter: 606 obj: 17.031102 mu: max 0.010000 min 0.000000 dgap: 2.797427
+17-Oct-2012 14:11:09: td: 49 err_tr: 236 (35.65) ml.loss tr: 499 (7.54) err_ts: 118 (34.91) ml.loss ts: 235 (6.95) obj: 1.703110e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 49  iter: 607 obj: 17.032813 mu: max 0.010000 min 0.000000 dgap: 2.795716
+17-Oct-2012 14:11:09: td: 49 err_tr: 238 (35.95) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 238 (7.04) obj: 1.703281e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 607 obj: 17.032813 mu: max 0.010000 min 0.000000 dgap: 2.795716
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 238 (7.04) obj: 1.703281e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 607 obj: 17.032813 mu: max 0.010000 min 0.000000 dgap: 2.795716
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 238 (7.04) obj: 1.703281e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 607 obj: 17.032813 mu: max 0.010000 min 0.000000 dgap: 2.795716
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 502 (7.58) err_ts: 120 (35.50) ml.loss ts: 238 (7.04) obj: 1.703281e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 608 obj: 17.033764 mu: max 0.010000 min 0.000000 dgap: 2.794765
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 501 (7.57) err_ts: 119 (35.21) ml.loss ts: 236 (6.98) obj: 1.703376e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 608 obj: 17.033764 mu: max 0.010000 min 0.000000 dgap: 2.794765
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 501 (7.57) err_ts: 119 (35.21) ml.loss ts: 236 (6.98) obj: 1.703376e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 609 obj: 17.033799 mu: max 0.010000 min 0.000000 dgap: 2.794730
+17-Oct-2012 14:11:09: td: 50 err_tr: 237 (35.80) ml.loss tr: 500 (7.55) err_ts: 118 (34.91) ml.loss ts: 235 (6.95) obj: 1.703380e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 610 obj: 17.046669 mu: max 0.010000 min 0.000000 dgap: 2.781859
+17-Oct-2012 14:11:09: td: 50 err_tr: 236 (35.65) ml.loss tr: 497 (7.51) err_ts: 118 (34.91) ml.loss ts: 234 (6.92) obj: 1.704667e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 610 obj: 17.046669 mu: max 0.010000 min 0.000000 dgap: 2.781859
+17-Oct-2012 14:11:09: td: 50 err_tr: 236 (35.65) ml.loss tr: 497 (7.51) err_ts: 118 (34.91) ml.loss ts: 234 (6.92) obj: 1.704667e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 611 obj: 17.047823 mu: max 0.010000 min 0.000000 dgap: 2.780706
+17-Oct-2012 14:11:09: td: 50 err_tr: 240 (36.25) ml.loss tr: 501 (7.57) err_ts: 118 (34.91) ml.loss ts: 234 (6.92) obj: 1.704782e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 612 obj: 17.049747 mu: max 0.010000 min 0.000000 dgap: 2.778781
+17-Oct-2012 14:11:09: td: 50 err_tr: 237 (35.80) ml.loss tr: 498 (7.52) err_ts: 118 (34.91) ml.loss ts: 233 (6.89) obj: 1.704975e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 613 obj: 17.061451 mu: max 0.010000 min 0.000000 dgap: 2.767077
+17-Oct-2012 14:11:09: td: 50 err_tr: 238 (35.95) ml.loss tr: 499 (7.54) err_ts: 117 (34.62) ml.loss ts: 232 (6.86) obj: 1.706145e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 614 obj: 17.064528 mu: max 0.010000 min 0.000000 dgap: 2.764000
+17-Oct-2012 14:11:09: td: 50 err_tr: 239 (36.10) ml.loss tr: 500 (7.55) err_ts: 115 (34.02) ml.loss ts: 229 (6.78) obj: 1.706453e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 615 obj: 17.071787 mu: max 0.010000 min 0.000000 dgap: 2.756741
+17-Oct-2012 14:11:09: td: 50 err_tr: 240 (36.25) ml.loss tr: 501 (7.57) err_ts: 114 (33.73) ml.loss ts: 226 (6.69) obj: 1.707179e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 50  iter: 616 obj: 17.072388 mu: max 0.010000 min 0.000000 dgap: 2.756141
+17-Oct-2012 14:11:09: td: 50 err_tr: 240 (36.25) ml.loss tr: 501 (7.57) err_ts: 114 (33.73) ml.loss ts: 226 (6.69) obj: 1.707239e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 617 obj: 17.076146 mu: max 0.010000 min 0.000000 dgap: 2.752383
+17-Oct-2012 14:11:09: td: 51 err_tr: 239 (36.10) ml.loss tr: 500 (7.55) err_ts: 114 (33.73) ml.loss ts: 226 (6.69) obj: 1.707615e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 617 obj: 17.076146 mu: max 0.010000 min 0.000000 dgap: 2.752383
+17-Oct-2012 14:11:09: td: 51 err_tr: 239 (36.10) ml.loss tr: 500 (7.55) err_ts: 114 (33.73) ml.loss ts: 226 (6.69) obj: 1.707615e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 618 obj: 17.089425 mu: max 0.010000 min 0.000000 dgap: 2.739104
+17-Oct-2012 14:11:09: td: 51 err_tr: 244 (36.86) ml.loss tr: 508 (7.67) err_ts: 114 (33.73) ml.loss ts: 225 (6.66) obj: 1.708942e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 619 obj: 17.092410 mu: max 0.010000 min 0.000000 dgap: 2.736119
+17-Oct-2012 14:11:09: td: 51 err_tr: 244 (36.86) ml.loss tr: 508 (7.67) err_ts: 114 (33.73) ml.loss ts: 225 (6.66) obj: 1.709241e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 620 obj: 17.101248 mu: max 0.010000 min 0.000000 dgap: 2.727281
+17-Oct-2012 14:11:09: td: 51 err_tr: 244 (36.86) ml.loss tr: 508 (7.67) err_ts: 114 (33.73) ml.loss ts: 225 (6.66) obj: 1.710125e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 620 obj: 17.101248 mu: max 0.010000 min 0.000000 dgap: 2.727281
+17-Oct-2012 14:11:09: td: 51 err_tr: 244 (36.86) ml.loss tr: 508 (7.67) err_ts: 114 (33.73) ml.loss ts: 225 (6.66) obj: 1.710125e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 621 obj: 17.101875 mu: max 0.010000 min 0.000000 dgap: 2.726654
+17-Oct-2012 14:11:09: td: 51 err_tr: 245 (37.01) ml.loss tr: 508 (7.67) err_ts: 116 (34.32) ml.loss ts: 227 (6.72) obj: 1.710187e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 622 obj: 17.102111 mu: max 0.010000 min 0.000000 dgap: 2.726418
+17-Oct-2012 14:11:09: td: 51 err_tr: 242 (36.56) ml.loss tr: 503 (7.60) err_ts: 115 (34.02) ml.loss ts: 226 (6.69) obj: 1.710211e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 622 obj: 17.102111 mu: max 0.010000 min 0.000000 dgap: 2.726418
+17-Oct-2012 14:11:09: td: 51 err_tr: 242 (36.56) ml.loss tr: 503 (7.60) err_ts: 115 (34.02) ml.loss ts: 226 (6.69) obj: 1.710211e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 623 obj: 17.111930 mu: max 0.010000 min 0.000000 dgap: 2.716599
+17-Oct-2012 14:11:09: td: 51 err_tr: 241 (36.40) ml.loss tr: 502 (7.58) err_ts: 114 (33.73) ml.loss ts: 228 (6.75) obj: 1.711193e+01
+17-Oct-2012 14:11:09: alg: M3LBP tm: 51  iter: 624 obj: 17.118687 mu: max 0.010000 min 0.000000 dgap: 2.709842
