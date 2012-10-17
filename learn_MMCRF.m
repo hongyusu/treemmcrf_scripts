@@ -59,9 +59,9 @@ function rtn=learn_MMCRF
         progress_made = 0;
         print_message('Conditional gradient optimization...',3)
         for x = 1:m
-            % obtain initial gradient for x
+            % obtain initial gradient for index-x
             Kmu_x = compute_Kmu_x(x,Kx_tr(:,x));
-            % conditional gradient optimization on x
+            % conditional gradient optimization on index-x
             [mu(:,x),Kxx_mu_x(:,x),obj,x_iter] = optimize_x(x, obj, mu(:,x), Kmu_x, Kxx_mu_x(:,x),loss(:,x),Ye(:,x),params.C,params.max_CGD_iter);
             %obj0 = mu(:)'*loss(:) - (mu(:)'*reshape(compute_Kmu(Kx_tr),4*size(E,1)*m,1))/2;
             iter = iter + x_iter;
@@ -94,12 +94,7 @@ function rtn=learn_MMCRF
 		    profile.next_profile_tm = 0;
 		    profile_update;
 		    break;
-		end
-        if profile.n_err_microlbl <=20
-            profile.next_profile_tm = 0;
-            profile_update;
-            break;
-        end  
+        end
     end
     rtn = mu;
 
@@ -186,21 +181,24 @@ function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,
     global params;
     iter = 0;
     while iter < maxiter
+        % calculate gradient for current example
         gradient =  loss_x - Kmu_x;
+        % terminate if gradient is too small
         if norm(gradient) < params.tolerance
             break;
         end
-        % find maximum gradient labeling (worst margin violator)
-        [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient);    
-        % gradient towards zero
+        % find maximum gradient labeling, Ymax-labeling, Gmax-global maxima
+        % under gradient labeling
+        [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient);
+        % gradient towards zero, current maxima
         G0 = -mu_x'*gradient;
-        % convert to update direction
+        % convert labeling to update direction
         Umax_e = 1+2*(Ymax(:,E(:,1))>0) + (Ymax(:,E(:,2)) >0);
         mu_1 = zeros(size(mu_x));
-        if Gmax > max(params.tolerance,G0)
+        if Gmax > max(params.tolerance,G0) % keep current solution
 			for u = 1:4
 		        mu_1(4*(1:size(E,1))-4 + u) = C*(Umax_e == u);
-			end
+            end
 			if sum(mu_1) > 0
 			    smu_1_te = sum(reshape(mu_1.*te_x,4,size(E,1)),1);
 			    smu_1_te = reshape(smu_1_te(ones(4,1),:),length(mu_x),1);
@@ -211,9 +209,9 @@ function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,
 			end
 			Kmu_1 = Kmu_x + kxx_mu_1 - kxx_mu_x;
         else
-            if G0 < params.tolerance
+            if G0 < params.tolerance 
                 break;
-            else
+            else % keep last solution
                 kxx_mu_1 = zeros(size(mu_x));
                 mu_1 = zeros(size(mu_x));
                 Kmu_1 = Kmu_x + kxx_mu_1 - kxx_mu_x;
@@ -221,7 +219,8 @@ function [mu_x,kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,kxx_mu_x,loss_x,
         end
         d_x = mu_1 - mu_x;
         Kd_x = Kmu_1 - Kmu_x;
-        l = gradient'*d_x; q = d_x'*Kd_x;
+        l = gradient'*d_x; 
+        q = d_x'*Kd_x;
         alpha = min(l/q,1);
         delta_obj = gradient'*d_x*alpha - alpha^2/2*d_x'*Kd_x;
         if or(delta_obj <= 0,alpha <= 0)
