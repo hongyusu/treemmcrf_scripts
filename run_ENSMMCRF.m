@@ -119,7 +119,7 @@ params.tolerance = 1E-10;		% numbers smaller than this are treated as zero
 params.filestem = 'tmpmmcrf';		% file name stem used for writing output
 params.profile_tm_interval = 10;	% how often to test during learning
 params.maxiter = 10;		% maximum number of iterations in the outer loop
-params.verbosity = 3;
+params.verbosity = 1;
 params.debugging = 0;
 
 if 1==0
@@ -140,7 +140,7 @@ end
 % random seed
 rand('twister', 0);
 % generate random graph
-Nrep=1;
+Nrep=2;
 muList=cell(Nrep,1);
 Nnode=size(Y,2);
 Elist=cell(Nrep,1);
@@ -173,7 +173,7 @@ for i=1:size(Elist,1)
         Y_ts = Y(Itest,:); Y_ts(Y_ts==0)=-1;
         % running
         % rtn = learn_ensMMCRF;
-        rtn = learn_MMCRF;sdf
+        rtn = learn_MMCRF;
         % save margin dual mu
         muList{(i-1)*nfold+k}=rtn;
         % collecting results
@@ -216,7 +216,6 @@ perf=[perf;[acc,vecacc,pre,rec,f1,0]];perf
 perf=[perf;[acc,vecacc,pre,rec,f1,auc]];perf
 
 
-dsfad
 %------------
 %
 % mdensMMCRF      
@@ -274,7 +273,7 @@ for i=1:size(Elist,1)
         muNew=muNew/Nrep;
         % running given mu and Enew
         params.mu=muNew;
-        rtn = learn_mdensMMCRF;
+        rtn = learn_ENSMMCRF;
         % collecting results
         load(sprintf('Ypred_%s.mat', params.filestem));
         Ypred = [Ypred;[Ypred_ts,Itest]];
@@ -316,13 +315,13 @@ subplot(3,4,9);plot(perfMadEns(:,1));title('Mad accuracy');
 subplot(3,4,10);plot(perfMadEns(:,2));title('multilabel accuracy');
 subplot(3,4,11);plot(perfMadEns(:,5));title('F1');
 subplot(3,4,12);plot(perfMadEns(:,6));title('AUC');
-print(hFig, '-depsc',sprintf('./plots/%s_ens.eps',name{1}));
+print(hFig, '-depsc',sprintf('../plots/%s_ens.eps',name{1}));
 % save results
-dlmwrite(sprintf('./results/%s_perf',name{1}),perf)
-dlmwrite(sprintf('./results/%s_perfRand',name{1}),perfRand)
-dlmwrite(sprintf('./results/%s_perfValEns',name{1}),perfValEns)
-dlmwrite(sprintf('./results/%s_perfBinEns',name{1}),perfBinEns)
-dlmwrite(sprintf('./results/%s_perfMadEns',name{1}),perfMadEns)
+dlmwrite(sprintf('../results/%s_perf',name{1}),perf)
+dlmwrite(sprintf('../results/%s_perfRand',name{1}),perfRand)
+dlmwrite(sprintf('../results/%s_perfValEns',name{1}),perfValEns)
+dlmwrite(sprintf('../results/%s_perfBinEns',name{1}),perfBinEns)
+dlmwrite(sprintf('../results/%s_perfMadEns',name{1}),perfMadEns)
 
 end
 
