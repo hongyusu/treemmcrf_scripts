@@ -51,11 +51,14 @@ function rtn=learn_MMCRF
     primal_ub = Inf;
     iter = 0;
     opt_round = 1;
-    %profile_update;
     prev_obj = 0;
     
+    profile_update;
+    compute_duality_gap;
+    profile.n_err_microlbl_prev=profile.n_err_microlbl;
+    
     % repeat until working set converged and close to optima
-    while or(primal_ub - obj >= params.epsilon*obj,profile.n_err_microlbl <= profile.n_err_microlbl_prev)
+    while and(primal_ub - obj >= params.epsilon*obj,profile.n_err_microlbl <= profile.n_err_microlbl_prev)
         progress_made = 0;
         print_message('Conditional gradient optimization...',3)
         for x = 1:m
