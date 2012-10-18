@@ -20,6 +20,14 @@ rand('twister', 0);
 Xsum=sum(X,2);
 X=X(find(Xsum~=0),:);
 Y=Y(find(Xsum~=0),:);
+% label selection with two labels
+Yuniq=[];
+for i=1:size(Y,2)
+    if size(unique(Y(:,i)),1)>1
+        Yuniq=[Yuniq,i];
+    end
+end
+Y=Y(:,Yuniq);
 
 % feature normalization (tf-idf for text data, scale and centralization for other numerical features)
 if or(strcmp(name{1},'medical'),strcmp(name{1},'enron')) 
