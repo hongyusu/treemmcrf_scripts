@@ -10,7 +10,7 @@ rand('twister', 0);
 % Y=dlmread(sprintf('/fs/group/urenzyme/workspace/data/%s_targets',name{1}));
 
 % simulate testing
-for name={'toy10'}
+for name={'emotions'}
 X=dlmread(sprintf('./test_data/%s_features',name{1}));
 Y=dlmread(sprintf('./test_data/%s_targets',name{1}));
 
@@ -171,7 +171,6 @@ for i=1:size(Elist,1)
         Y_tr = Y(Itrain,:); Y_tr(Y_tr==0)=-1;
         Y_ts = Y(Itest,:); Y_ts(Y_ts==0)=-1;
         % running
-        % rtn = learn_ensMMCRF;
         rtn = learn_MMCRF;
         % save margin dual mu
         muList{(i-1)*nfold+k}=rtn;
