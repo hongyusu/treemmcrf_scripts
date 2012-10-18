@@ -75,7 +75,7 @@ for i=1:Ny
         end
         model = svmtrain(Y(Itrain,i),[(1:numel(Itrain))',K(Itrain,Itrain)],sprintf('-b 1 -q -c %.2f -t 4',svm_c));
         [Ynew,acc,YnewVal] = svmpredict(Y(Itest,k),[(1:numel(Itest))',K(Itest,Itrain)],model,'-b 1');
-        [Ynew] = svmpredict(Y(Itest,i),[(1:numel(Itest))',K(Itest,Itrain)],model);
+        [Ynew] = svmpredict(Y(Itest,k),[(1:numel(Itest))',K(Itest,Itrain)],model);
         Ycol = [Ycol;[Ynew,Itest]];
         if size(YnewVal,2)==2
             YcolVal = [YcolVal;[YnewVal(:,abs(model.Label(1,:)-1)+1),Itest]];
@@ -119,7 +119,7 @@ params.max_LBP_iter = 2;		% number of Loopy belief propagation iterations
 params.tolerance = 1E-10;		% numbers smaller than this are treated as zero
 params.filestem = 'tmpmmcrf';		% file name stem used for writing output
 params.profile_tm_interval = 10;	% how often to test during learning
-params.maxiter = 10;		% maximum number of iterations in the outer loop
+params.maxiter = 5;		% maximum number of iterations in the outer loop
 params.verbosity = 1;
 params.debugging = 0;
 

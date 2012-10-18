@@ -51,7 +51,7 @@ function rtn=learn_MMCRF
     primal_ub = Inf;
     iter = 0;
     opt_round = 1;
-    %profile_update;
+    profile_update;
     prev_obj = 0;
     
     % repeat until working set converged and close to optima
@@ -308,6 +308,7 @@ function profile_update
     print_message(sprintf('alg: M3LBP tm: %d  iter: %d obj: %f mu: max %f min %f dgap: %f',...
     round(tm-profile.start_time),profile.iter,obj,max(max(mu)),min(min(mu)),primal_ub-obj),3,sprintf('%s.log',params.filestem));
     if params.profiling
+        
         profile.next_profile_tm = profile.next_profile_tm + params.profile_tm_interval;
         profile.n_err_microlbl_prev = profile.n_err_microlbl;
 

@@ -75,7 +75,10 @@ for i=1:Ny
         end
         model = svmtrain(Y(Itrain,i),[(1:numel(Itrain))',K(Itrain,Itrain)],sprintf('-b 1 -q -c %.2f -t 4',svm_c));
         [Ynew,acc,YnewVal] = svmpredict(Y(Itest,k),[(1:numel(Itest))',K(Itest,Itrain)],model,'-b 1');
-        [Ynew] = svmpredict(Y(Itest,i),[(1:numel(Itest))',K(Itest,Itrain)],model);
+        [Ynew1] = svmpredict(Y(Itest,k),[(1:numel(Itest))',K(Itest,Itrain)],model);
+        size()
+        [Y(:,k),Ynew,Ynew1]
+        sd
         Ycol = [Ycol;[Ynew,Itest]];
         if size(YnewVal,2)==2
             YcolVal = [YcolVal;[YnewVal(:,abs(model.Label(1,:)-1)+1),Itest]];
@@ -93,8 +96,7 @@ end
 auc1=get_auc(Y,YpredVal);
 [acc,vecacc,pre,rec,f1]=get_performance(Y,Ypred);
 perf=[perf;[acc,vecacc,pre,rec,f1,auc,auc1]];perf
-dlmwrite(sprintf('../'),Ypred)
-asd
+dlmwrite(sprintf('../predictions/%s_predSvm',name{1}),Ypred)
 
 
 
@@ -113,7 +115,7 @@ global params;
 % set parameters
 params.mlloss = 1;	% assign loss to microlabels or edges
 params.profiling = 1;	% profile (test during learning)
-params.epsilon = 0.8; %0.6;	% stopping criterion: minimum relative duality gap
+params.epsilon = 0.9; %0.6;	% stopping criterion: minimum relative duality gap
 params.C =svm_c ;		% margin slack
 params.max_CGD_iter = 1;		% maximum number of conditional gradient iterations per example
 params.max_LBP_iter = 2;		% number of Loopy belief propagation iterations
@@ -124,25 +126,10 @@ params.maxiter = 10;		% maximum number of iterations in the outer loop
 params.verbosity = 1;
 params.debugging = 0;
 
-if 1==0
-    % random seed
-    rand('twister', 0);
-    % generate random graph
-    Nrep=60;
-    muList=cell(Nrep,1);
-    Nnode=size(Y,2);
-    Elist=cell(Nrep,1);
-    for i=1:Nrep
-        E=randPairGenerator(Nnode); % generate
-        E=[E,min(E')',max(E')'];E=E(:,3:4); % arrange head and tail
-        E=sortrows(E,[1,2]); % sort by head and tail
-        Elist{i}=E; % put into cell array
-    end
-end
 % random seed
 rand('twister', 0);
 % generate random graph
-Nrep=2;
+Nrep=5;
 muList=cell(Nrep,1);
 Nnode=size(Y,2);
 Elist=cell(Nrep,1);
@@ -213,11 +200,13 @@ perf=[perf;mean(perfRand,1)];
 % performance of Bin ensemble
 [acc,vecacc,pre,rec,f1]=get_performance(Y,YenspredBin>0);
 perf=[perf;[acc,vecacc,pre,rec,f1,0,0]];perf
+dlmwrite(sprintf('../predictions/%s_predBinEns',name{1}),YenspredBin>0)
 % performance of Val ensemble
 [ax,ay,t,auc]=perfcurve(reshape(Y,1,numel(Y)),reshape(YenspredVal,1,numel(Y)),1);
 auc1=get_auc(Y,YenspredVal);
 [acc,vecacc,pre,rec,f1]=get_performance(Y,Yenspred);
 perf=[perf;[acc,vecacc,pre,rec,f1,auc,auc1]];perf
+dlmwrite(sprintf('../predictions/%s_predValEns',name{1}),Yenspred)
 
 
 %------------
@@ -300,27 +289,29 @@ end
 auc1=get_auc(Y,YpredVal);
 [acc,vecacc,pre,rec,f1]=get_performance(Y,Ypred>0);
 perf=[perf;[acc,vecacc,pre,rec,f1,auc,auc1]];perf
-% plot roc
-% plot(ax,ay,'blue');hold on
-% save results
-% dlmwrite(sprintf('results/%s_mdens',name{1}), Yenspred);
+dlmwrite(sprintf('../predictions/%s_predMadEns',name{1}),Ypred>0)
 
 
 % plot data with true labels
 hFig = figure('visible','off');
-set(hFig, 'Position', [500,500,800,500])
-subplot(3,4,1);plot(perfBinEns(:,1));title('Bin accuracy');
-subplot(3,4,2);plot(perfBinEns(:,2));title('multilabel accuracy');
-subplot(3,4,3);plot(perfBinEns(:,5));title('F1');
-subplot(3,4,4);plot(perfBinEns(:,6));title('AUC');
-subplot(3,4,5);plot(perfValEns(:,1));title('Val accuracy');
-subplot(3,4,6);plot(perfValEns(:,2));title('multilabel accuracy');
-subplot(3,4,7);plot(perfValEns(:,5));title('F1');
-subplot(3,4,8);plot(perfValEns(:,6));title('AUC');
-subplot(3,4,9);plot(perfMadEns(:,1));title('Mad accuracy');
-subplot(3,4,10);plot(perfMadEns(:,2));title('multilabel accuracy');
-subplot(3,4,11);plot(perfMadEns(:,5));title('F1');
-subplot(3,4,12);plot(perfMadEns(:,6));title('AUC');
+set(hFig, 'Position', [500,500,1200,500])
+subplot(3,5,1);plot(perfBinEns(:,1));title('Bin accuracy');
+subplot(3,5,2);plot(perfBinEns(:,2));title('multilabel accuracy');
+subplot(3,5,3);plot(perfBinEns(:,5));title('F1');
+subplot(3,5,4);plot(perfBinEns(:,6));title('AUC');
+subplot(3,5,5);plot(perfBinEns(:,7));title('AUC2');
+
+subplot(3,5,6);plot(perfValEns(:,1));title('Val accuracy');
+subplot(3,5,7);plot(perfValEns(:,2));title('multilabel accuracy');
+subplot(3,5,8);plot(perfValEns(:,5));title('F1');
+subplot(3,5,9);plot(perfValEns(:,6));title('AUC');
+subplot(3,5,10);plot(perfValEns(:,7));title('AUC2');
+
+subplot(3,5,11);plot(perfMadEns(:,1));title('Mad accuracy');
+subplot(3,5,12);plot(perfMadEns(:,2));title('multilabel accuracy');
+subplot(3,5,13);plot(perfMadEns(:,5));title('F1');
+subplot(3,5,14);plot(perfMadEns(:,6));title('AUC');
+subplot(3,5,15);plot(perfMadEns(:,7));title('AUC2');
 print(hFig, '-depsc',sprintf('../plots/%s_ens.eps',name{1}));
 % save results
 dlmwrite(sprintf('../results/%s_perf',name{1}),perf)
