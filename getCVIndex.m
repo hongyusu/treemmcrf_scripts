@@ -4,7 +4,7 @@
 % get stratified 'nfold'-folder cross validation index
 %
 function fInd = getCVIndex(Y,nfold)
-    %rand('twister', 0);
+    rand('twister', 0);
     fInd=[];
     Ysum=sum(Y,2);
     Yunique=unique(Ysum);

@@ -2,7 +2,7 @@ function rtn = run_mdensMMCRF()
 
 % add path of libsvm
 addpath '~/softwares/libsvm-3.12/matlab/'
-rand('twister', 0);
+
 
 % actual running
 % for name={'emotions','yeast','scene','enron','cal500','fp','cancer','medical','toy10','toy50'}
@@ -13,6 +13,8 @@ rand('twister', 0);
 for name={'emotions'}
 X=dlmread(sprintf('./test_data/%s_features',name{1}));
 Y=dlmread(sprintf('./test_data/%s_targets',name{1}));
+
+rand('twister', 0);
 
 % example selection with meaningful features
 Xsum=sum(X,2);
