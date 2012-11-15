@@ -187,7 +187,7 @@ mmcrf_g
 
 pa=[mmcrf_cs;selRes];
 pa=[[0,mmcrf_gs]',pa]
-dlmwrite(sprintf('../parameters/%s_parammcrf',name{1}),pa)
+dlmwrite(sprintf('../parameters/%s_parammcrftree',name{1}),pa)
 
 
 
