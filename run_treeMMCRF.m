@@ -220,7 +220,7 @@ params.debugging = 0;
 % random seed
 rand('twister', 0);
 % generate random graph
-Nrep=4;
+Nrep=1;
 muList=cell(Nrep,1);
 Nnode=size(Y,2);
 Elist=cell(Nrep,1);
@@ -401,7 +401,7 @@ dlmwrite(sprintf('../results/%s_perfMadTreeEnsProc',name{1}),perfMadEns)
 
 end
 
-rtn = [];
+%rtn = [];
 end
 
 
